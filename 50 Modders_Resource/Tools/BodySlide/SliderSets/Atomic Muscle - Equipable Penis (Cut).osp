@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Atomic Muscle - Equipable Penis (Cut)">
+        <DataFolder>Atomic Muscle - Equipable Penis (Cut)</DataFolder>
+        <SourceFile>Atomic Muscle - Equipable Penis (Cut).nif</SourceFile>
+        <OutputPath>meshes\actors\character\characterassets</OutputPath>
+        <OutputFile GenWeights="false">EquipablePenisC</OutputFile>
+        <Shape target="Equipable_Penis_Cut_Flaccid" DataFolder="Atomic Muscle - Equipable Penis (Cut)">Equipable_Penis_Cut_Flaccid</Shape>
+        <Slider name="Shaft Width" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidShaft Width" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidShaft Width</Data>
+        </Slider>
+        <Slider name="Erection" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidErection" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidErection</Data>
+        </Slider>
+        <Slider name="Erection Up" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidErection Up" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidErection Up</Data>
+        </Slider>
+        <Slider name="Erection Down" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidErection Down" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidErection Down</Data>
+        </Slider>
+        <Slider name="Sack Size" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidSack Size" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidSack Size</Data>
+        </Slider>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidAnus Spread" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidNuclear BodyBuilder" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="Equipable_Penis_Cut_FlaccidNuka Bull" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Cut).osd\Equipable_Penis_Cut_FlaccidNuka Bull</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

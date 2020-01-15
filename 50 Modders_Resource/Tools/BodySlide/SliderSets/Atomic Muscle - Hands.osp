@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Atomic Muscle - Hands">
+        <DataFolder>Atomic Muscle - Hands</DataFolder>
+        <SourceFile>Atomic Muscle - Hands.nif</SourceFile>
+        <OutputPath>Meshes\Actors\Character\CharacterAssets</OutputPath>
+        <OutputFile GenWeights="false">MaleHands</OutputFile>
+        <Shape target="BaseMaleHands3rd" DataFolder="Atomic Muscle - Hands">BaseMaleHands3rd</Shape>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuclear BodyBuilder" target="BaseMaleHands3rd" local="true">Atomic Muscle - Hands.osd\BaseMaleHands3rdNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuka Bull" target="BaseMaleHands3rd" local="true">Atomic Muscle - Hands.osd\BaseMaleHands3rdNuka Bull</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
