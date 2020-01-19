@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Silver Shround Gloves">
+        <DataFolder>[AM Vanilla] Silver Shround Gloves</DataFolder>
+        <SourceFile>[AM Vanilla] Silver Shround Gloves.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\SilverShroud</OutputPath>
+        <OutputFile GenWeights="false">SilverShroudGloves</OutputFile>
+        <Shape target="BaseMaleHands3rd" DataFolder="Atomic Muscle - Hands">BaseMaleHands3rd</Shape>
+        <Shape target="SilverShroudGloves:0">SilverShroudGloves:0</Shape>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuclear BodyBuilder" target="BaseMaleHands3rd" local="true">[AM Vanilla] Silver Shround Gloves.osd\BaseMaleHands3rdNuclear BodyBuilder</Data>
+            <Data name="SilverShroudGloves:0Nuclear BodyBuilder" target="SilverShroudGloves:0" local="true">[AM Vanilla] Silver Shround Gloves.osd\SilverShroudGloves:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuka Bull" target="BaseMaleHands3rd" local="true">[AM Vanilla] Silver Shround Gloves.osd\BaseMaleHands3rdNuka Bull</Data>
+            <Data name="SilverShroudGloves:0Nuka Bull" target="SilverShroudGloves:0" local="true">[AM Vanilla] Silver Shround Gloves.osd\SilverShroudGloves:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="hzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="BaseMaleHands3rdhzap" target="BaseMaleHands3rd" local="true">[AM Vanilla] Silver Shround Gloves.osd\BaseMaleHands3rdhzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

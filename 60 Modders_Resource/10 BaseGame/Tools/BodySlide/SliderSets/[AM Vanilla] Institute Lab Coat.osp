@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Institute Lab Coat">
+        <DataFolder>[AM Vanilla] Institute Lab Coat</DataFolder>
+        <SourceFile>[AM Vanilla] Institute Lab Coat.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\InstituteUniform</OutputPath>
+        <OutputFile GenWeights="false">MLabCoat</OutputFile>
+        <Shape target="MLabCoat_split:0">MLabCoat_split:0</Shape>
+        <Shape target="MLabCoat_split:1">MLabCoat_split:1</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Institute Lab Coat.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MLabCoat_split:0Anus Spread" target="MLabCoat_split:0" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:0Anus Spread</Data>
+            <Data name="MLabCoat_split:1Anus Spread" target="MLabCoat_split:1" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Institute Lab Coat.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MLabCoat_split:0Nuclear BodyBuilder" target="MLabCoat_split:0" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:0Nuclear BodyBuilder</Data>
+            <Data name="MLabCoat_split:1Nuclear BodyBuilder" target="MLabCoat_split:1" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Institute Lab Coat.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MLabCoat_split:0Nuka Bull" target="MLabCoat_split:0" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:0Nuka Bull</Data>
+            <Data name="MLabCoat_split:1Nuka Bull" target="MLabCoat_split:1" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Institute Lab Coat.osd\MaleBodyNeverNBulge</Data>
+            <Data name="MLabCoat_split:0Bulge" target="MLabCoat_split:0" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:0Bulge</Data>
+            <Data name="MLabCoat_split:1Bulge" target="MLabCoat_split:1" local="true">[AM Vanilla] Institute Lab Coat.osd\MLabCoat_split:1Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Institute Lab Coat.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Postman Uniform">
+        <DataFolder>[AM Vanilla] Postman Uniform</DataFolder>
+        <SourceFile>[AM Vanilla] Postman Uniform.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Postman</OutputPath>
+        <OutputFile GenWeights="false">PostmanM</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="PostmanMoutfit:0">PostmanMoutfit:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Postman Uniform.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="PostmanMoutfit:0Anus Spread" target="PostmanMoutfit:0" local="true">[AM Vanilla] Postman Uniform.osd\PostmanMoutfit:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Postman Uniform.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="PostmanMoutfit:0Nuclear BodyBuilder" target="PostmanMoutfit:0" local="true">[AM Vanilla] Postman Uniform.osd\PostmanMoutfit:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Postman Uniform.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="PostmanMoutfit:0Nuka Bull" target="PostmanMoutfit:0" local="true">[AM Vanilla] Postman Uniform.osd\PostmanMoutfit:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Postman Uniform.osd\MaleBodyNeverNBulge</Data>
+            <Data name="PostmanMoutfit:0Bulge" target="PostmanMoutfit:0" local="true">[AM Vanilla] Postman Uniform.osd\PostmanMoutfit:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Postman Uniform.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

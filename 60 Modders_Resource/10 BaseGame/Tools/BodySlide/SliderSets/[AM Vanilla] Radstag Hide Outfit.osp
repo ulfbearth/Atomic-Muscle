@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Radstag Hide Outfit">
+        <DataFolder>[AM Vanilla] Radstag Hide Outfit</DataFolder>
+        <SourceFile>[AM Vanilla] Radstag Hide Outfit.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Wastelander</OutputPath>
+        <OutputFile GenWeights="false">OutfitM</OutputFile>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Shape target="OutfitM:0">OutfitM:0</Shape>
+        <Shape target="plug:0">plug:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Radstag Hide Outfit.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="plug:0Anus Spread" target="plug:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\plug:0Anus Spread</Data>
+            <Data name="OutfitM:0Anus Spread" target="OutfitM:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\OutfitM:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Radstag Hide Outfit.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="plug:0Nuclear BodyBuilder" target="plug:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\plug:0Nuclear BodyBuilder</Data>
+            <Data name="OutfitM:0Nuclear BodyBuilder" target="OutfitM:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\OutfitM:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Radstag Hide Outfit.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="plug:0Nuka Bull" target="plug:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\plug:0Nuka Bull</Data>
+            <Data name="OutfitM:0Nuka Bull" target="OutfitM:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\OutfitM:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Radstag Hide Outfit.osd\NeverNude+HandsBulge</Data>
+            <Data name="plug:0Bulge" target="plug:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\plug:0Bulge</Data>
+            <Data name="OutfitM:0Bulge" target="OutfitM:0" local="true">[AM Vanilla] Radstag Hide Outfit.osd\OutfitM:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Radstag Hide Outfit.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

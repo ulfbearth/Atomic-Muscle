@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] DC Guard Umpire&apos;s Pads">
+        <DataFolder>[AM Vanilla] DC Guard Umpire's Pads</DataFolder>
+        <SourceFile>[AM Vanilla] DC Guard Umpire's Pads.nif</SourceFile>
+        <OutputPath>Meshes\Armor\DCGuard</OutputPath>
+        <OutputFile GenWeights="false">MArmorBody</OutputFile>
+        <Shape target="MArmorBody_FIX:0">MArmorBody_FIX:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MArmorBody_FIX:0Anus Spread" target="MArmorBody_FIX:0" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MArmorBody_FIX:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MArmorBody_FIX:0Nuclear BodyBuilder" target="MArmorBody_FIX:0" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MArmorBody_FIX:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MArmorBody_FIX:0Nuka Bull" target="MArmorBody_FIX:0" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MArmorBody_FIX:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MaleBodyNeverNBulge</Data>
+            <Data name="MArmorBody_FIX:0Bulge" target="MArmorBody_FIX:0" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MArmorBody_FIX:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Umpire's Pads.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

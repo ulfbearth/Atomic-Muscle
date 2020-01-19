@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Gunner . Raider Leathers">
+        <DataFolder>[AM Vanilla] Gunner . Raider Leathers</DataFolder>
+        <SourceFile>[AM Vanilla] Gunner . Raider Leathers.nif</SourceFile>
+        <OutputPath>Meshes\Armor\RaiderModArmor</OutputPath>
+        <OutputFile GenWeights="false">Underarmor</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="under_armor:0">under_armor:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="under_armor:0Anus Spread" target="under_armor:0" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\under_armor:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="under_armor:0Nuclear BodyBuilder" target="under_armor:0" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\under_armor:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="under_armor:0Nuka Bull" target="under_armor:0" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\under_armor:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\MaleBodyNeverNBulge</Data>
+            <Data name="under_armor:0Bulge" target="under_armor:0" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\under_armor:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Gunner . Raider Leathers.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

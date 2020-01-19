@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Metal Chest Piece Mid">
+        <DataFolder>[AM Vanilla] Metal Chest Piece Mid</DataFolder>
+        <SourceFile>[AM Vanilla] Metal Chest Piece Mid.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Metal</OutputPath>
+        <OutputFile GenWeights="false">MTorso_Mid_1</OutputFile>
+        <Shape target="MToroso_Heavy_1:0">MToroso_Heavy_1:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MToroso_Heavy_1:0Anus Spread" target="MToroso_Heavy_1:0" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MToroso_Heavy_1:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MToroso_Heavy_1:0Nuclear BodyBuilder" target="MToroso_Heavy_1:0" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MToroso_Heavy_1:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MToroso_Heavy_1:0Nuka Bull" target="MToroso_Heavy_1:0" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MToroso_Heavy_1:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Chest Piece Mid.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

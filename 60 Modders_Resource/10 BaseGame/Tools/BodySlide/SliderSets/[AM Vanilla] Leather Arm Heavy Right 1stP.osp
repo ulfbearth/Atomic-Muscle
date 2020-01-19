@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Leather Arm Heavy Right 1stP">
+        <DataFolder>[AM Vanilla] Leather Arm Heavy Right 1stP</DataFolder>
+        <SourceFile>[AM Vanilla] Leather Arm Heavy Right 1stP.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Leather</OutputPath>
+        <OutputFile GenWeights="false">M_Arm_Heavy_R_1st</OutputFile>
+        <Shape target="M_Arm_heavy_RStuds:0">M_Arm_heavy_RStuds:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="M_Arm_heavy_RStuds:0Anus Spread" target="M_Arm_heavy_RStuds:0" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\M_Arm_heavy_RStuds:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="M_Arm_heavy_RStuds:0Nuclear BodyBuilder" target="M_Arm_heavy_RStuds:0" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\M_Arm_heavy_RStuds:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="M_Arm_heavy_RStuds:0Nuka Bull" target="M_Arm_heavy_RStuds:0" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\M_Arm_heavy_RStuds:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Leather Arm Heavy Right 1stP.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

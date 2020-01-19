@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Red Frock Coat">
+        <DataFolder>[AM Vanilla] Red Frock Coat</DataFolder>
+        <SourceFile>[AM Vanilla] Red Frock Coat.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Hancock</OutputPath>
+        <OutputFile GenWeights="false">Moutfit</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude + Hands">MaleBodyNeverN</Shape>
+        <Shape target="Moutfit_Cloth:0">Moutfit_Cloth:0</Shape>
+        <Shape target="Moutfit_Cloth:1">Moutfit_Cloth:1</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Red Frock Coat.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Moutfit_Cloth:0Anus Spread" target="Moutfit_Cloth:0" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:0Anus Spread</Data>
+            <Data name="Moutfit_Cloth:1Anus Spread" target="Moutfit_Cloth:1" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Red Frock Coat.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Moutfit_Cloth:0Nuclear BodyBuilder" target="Moutfit_Cloth:0" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:0Nuclear BodyBuilder</Data>
+            <Data name="Moutfit_Cloth:1Nuclear BodyBuilder" target="Moutfit_Cloth:1" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Red Frock Coat.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Moutfit_Cloth:0Nuka Bull" target="Moutfit_Cloth:0" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:0Nuka Bull</Data>
+            <Data name="Moutfit_Cloth:1Nuka Bull" target="Moutfit_Cloth:1" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Red Frock Coat.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Moutfit_Cloth:0Bulge" target="Moutfit_Cloth:0" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:0Bulge</Data>
+            <Data name="Moutfit_Cloth:1Bulge" target="Moutfit_Cloth:1" local="true">[AM Vanilla] Red Frock Coat.osd\Moutfit_Cloth:1Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Red Frock Coat.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

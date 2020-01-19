@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Army Fatigues">
+        <DataFolder>[AM Vanilla] Army Fatigues</DataFolder>
+        <SourceFile>[AM Vanilla] Army Fatigues.nif</SourceFile>
+        <OutputPath>meshes\Armor\ArmyFatigues</OutputPath>
+        <OutputFile GenWeights="false">FatiguesM</OutputFile>
+        <Shape target="Body:0">Body:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="pipboyArm:0">pipboyArm:0</Shape>
+        <Shape target="pipboysleeve:0">pipboysleeve:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Army Fatigues.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="pipboysleeve:0Anus Spread" target="pipboysleeve:0" local="true">[AM Vanilla] Army Fatigues.osd\pipboysleeve:0Anus Spread</Data>
+            <Data name="pipboyArm:0Anus Spread" target="pipboyArm:0" local="true">[AM Vanilla] Army Fatigues.osd\pipboyArm:0Anus Spread</Data>
+            <Data name="Body:0Anus Spread" target="Body:0" local="true">[AM Vanilla] Army Fatigues.osd\Body:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Army Fatigues.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="pipboysleeve:0Nuclear BodyBuilder" target="pipboysleeve:0" local="true">[AM Vanilla] Army Fatigues.osd\pipboysleeve:0Nuclear BodyBuilder</Data>
+            <Data name="pipboyArm:0Nuclear BodyBuilder" target="pipboyArm:0" local="true">[AM Vanilla] Army Fatigues.osd\pipboyArm:0Nuclear BodyBuilder</Data>
+            <Data name="Body:0Nuclear BodyBuilder" target="Body:0" local="true">[AM Vanilla] Army Fatigues.osd\Body:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Army Fatigues.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="pipboysleeve:0Nuka Bull" target="pipboysleeve:0" local="true">[AM Vanilla] Army Fatigues.osd\pipboysleeve:0Nuka Bull</Data>
+            <Data name="pipboyArm:0Nuka Bull" target="pipboyArm:0" local="true">[AM Vanilla] Army Fatigues.osd\pipboyArm:0Nuka Bull</Data>
+            <Data name="Body:0Nuka Bull" target="Body:0" local="true">[AM Vanilla] Army Fatigues.osd\Body:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Army Fatigues.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Body:0Bulge" target="Body:0" local="true">[AM Vanilla] Army Fatigues.osd\Body:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Army Fatigues.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

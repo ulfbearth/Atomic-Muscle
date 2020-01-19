@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Synth Chest Piece Med">
+        <DataFolder>[AM Vanilla] Synth Chest Piece Med</DataFolder>
+        <SourceFile>[AM Vanilla] Synth Chest Piece Med.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Synth</OutputPath>
+        <OutputFile GenWeights="false">SynthMedTorso</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="SynthMedTorso:0">SynthMedTorso:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Synth Chest Piece Med.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="SynthMedTorso:0Anus Spread" target="SynthMedTorso:0" local="true">[AM Vanilla] Synth Chest Piece Med.osd\SynthMedTorso:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Synth Chest Piece Med.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="SynthMedTorso:0Nuclear BodyBuilder" target="SynthMedTorso:0" local="true">[AM Vanilla] Synth Chest Piece Med.osd\SynthMedTorso:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Synth Chest Piece Med.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="SynthMedTorso:0Nuka Bull" target="SynthMedTorso:0" local="true">[AM Vanilla] Synth Chest Piece Med.osd\SynthMedTorso:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Synth Chest Piece Med.osd\MaleBodyNeverNBulge</Data>
+            <Data name="SynthMedTorso:0Bulge" target="SynthMedTorso:0" local="true">[AM Vanilla] Synth Chest Piece Med.osd\SynthMedTorso:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Synth Chest Piece Med.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

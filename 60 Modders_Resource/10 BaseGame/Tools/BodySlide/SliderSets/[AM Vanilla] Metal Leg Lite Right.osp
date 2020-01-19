@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Metal Leg Lite Right">
+        <DataFolder>[AM Vanilla] Metal Leg Lite Right</DataFolder>
+        <SourceFile>[AM Vanilla] Metal Leg Lite Right.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Metal</OutputPath>
+        <OutputFile GenWeights="false">MLegR_Lite_1</OutputFile>
+        <Shape target="MLegR_Mid_1:0">MLegR_Mid_1:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MLegR_Mid_1:0Anus Spread" target="MLegR_Mid_1:0" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MLegR_Mid_1:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MLegR_Mid_1:0Nuclear BodyBuilder" target="MLegR_Mid_1:0" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MLegR_Mid_1:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MLegR_Mid_1:0Nuka Bull" target="MLegR_Mid_1:0" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MLegR_Mid_1:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Metal Leg Lite Right.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

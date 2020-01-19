@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Winter Jacket and Jeans">
+        <DataFolder>[AM Vanilla] Winter Jacket and Jeans</DataFolder>
+        <SourceFile>[AM Vanilla] Winter Jacket and Jeans.nif</SourceFile>
+        <OutputPath>Meshes\Armor\RusticUnderArmor</OutputPath>
+        <OutputFile GenWeights="false">MJacket</OutputFile>
+        <Shape target="Body:0">Body:0</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Shape target="jacketFix:0">jacketFix:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="jacketFix:0Anus Spread" target="jacketFix:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\jacketFix:0Anus Spread</Data>
+            <Data name="Body:0Anus Spread" target="Body:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\Body:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="jacketFix:0Nuclear BodyBuilder" target="jacketFix:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\jacketFix:0Nuclear BodyBuilder</Data>
+            <Data name="Body:0Nuclear BodyBuilder" target="Body:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\Body:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="jacketFix:0Nuka Bull" target="jacketFix:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\jacketFix:0Nuka Bull</Data>
+            <Data name="Body:0Nuka Bull" target="Body:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\Body:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\NeverNude+HandsBulge</Data>
+            <Data name="jacketFix:0Bulge" target="jacketFix:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\jacketFix:0Bulge</Data>
+            <Data name="Body:0Bulge" target="Body:0" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\Body:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Winter Jacket and Jeans.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

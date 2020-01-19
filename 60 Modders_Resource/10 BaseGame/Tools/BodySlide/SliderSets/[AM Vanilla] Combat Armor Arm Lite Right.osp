@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Combat Armor Arm Lite Right">
+        <DataFolder>[AM Vanilla] Combat Armor Arm Lite Right</DataFolder>
+        <SourceFile>[AM Vanilla] Combat Armor Arm Lite Right.nif</SourceFile>
+        <OutputPath>Meshes\Armor\CombatArmor</OutputPath>
+        <OutputFile GenWeights="false">M_Arm_Lite_R</OutputFile>
+        <Shape target="Combat Armor Arm Heavy">Combat Armor Arm Heavy</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Combat Armor Arm HeavyAnus Spread" target="Combat Armor Arm Heavy" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\Combat Armor Arm HeavyAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Combat Armor Arm HeavyNuclear BodyBuilder" target="Combat Armor Arm Heavy" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\Combat Armor Arm HeavyNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Combat Armor Arm HeavyNuka Bull" target="Combat Armor Arm Heavy" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\Combat Armor Arm HeavyNuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Combat Armor Arm Lite Right.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

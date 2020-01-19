@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Mechanic Jumpsuit">
+        <DataFolder>[AM Vanilla] Mechanic Jumpsuit</DataFolder>
+        <SourceFile>[AM Vanilla] Mechanic Jumpsuit.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\RedRocketJumpsuit</OutputPath>
+        <OutputFile GenWeights="false">RedRocketJumpsuitM</OutputFile>
+        <Shape target="MaleBodyNeverN">MaleBodyNeverN</Shape>
+        <Shape target="RRJumpsuitM:0">RRJumpsuitM:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="RRJumpsuitM:0Anus Spread" target="RRJumpsuitM:0" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\RRJumpsuitM:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="RRJumpsuitM:0Nuclear BodyBuilder" target="RRJumpsuitM:0" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\RRJumpsuitM:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="RRJumpsuitM:0Nuka Bull" target="RRJumpsuitM:0" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\RRJumpsuitM:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\MaleBodyNeverNBulge</Data>
+            <Data name="RRJumpsuitM:0Bulge" target="RRJumpsuitM:0" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\RRJumpsuitM:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Mechanic Jumpsuit.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Child of Atom Skirt">
+        <DataFolder>[AM Vanilla] Child of Atom Skirt</DataFolder>
+        <SourceFile>[AM Vanilla] Child of Atom Skirt.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\ChildrenOfAtom</OutputPath>
+        <OutputFile GenWeights="false">MSkirt</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="Skirt:0">Skirt:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Child of Atom Skirt.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Skirt:0Anus Spread" target="Skirt:0" local="true">[AM Vanilla] Child of Atom Skirt.osd\Skirt:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Child of Atom Skirt.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Skirt:0Nuclear BodyBuilder" target="Skirt:0" local="true">[AM Vanilla] Child of Atom Skirt.osd\Skirt:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Child of Atom Skirt.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Skirt:0Nuka Bull" target="Skirt:0" local="true">[AM Vanilla] Child of Atom Skirt.osd\Skirt:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Child of Atom Skirt.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Skirt:0Bulge" target="Skirt:0" local="true">[AM Vanilla] Child of Atom Skirt.osd\Skirt:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Child of Atom Skirt.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

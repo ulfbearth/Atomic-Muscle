@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Summer Shorts 1stP">
+        <DataFolder>[AM Vanilla] Summer Shorts 1stP</DataFolder>
+        <SourceFile>[AM Vanilla] Summer Shorts 1stP.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\SummerShorts</OutputPath>
+        <OutputFile GenWeights="false">MOutfit1stPerson</OutputFile>
+        <Shape target="MaleBody" DataFolder="Atomic Muscle Test III">MaleBody</Shape>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNuclear BodyBuilder" target="MaleBody" local="true">[AM Vanilla] Summer Shorts 1stP.osd\MaleBodyNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNuka Bull" target="MaleBody" local="true">[AM Vanilla] Summer Shorts 1stP.osd\MaleBodyNuka Bull</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

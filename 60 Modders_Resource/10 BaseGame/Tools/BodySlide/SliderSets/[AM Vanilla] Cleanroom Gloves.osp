@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Cleanroom Gloves">
+        <DataFolder>[AM Vanilla] Cleanroom Gloves</DataFolder>
+        <SourceFile>[AM Vanilla] Cleanroom Gloves.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\InstituteWorksuit</OutputPath>
+        <OutputFile GenWeights="false">MGlove</OutputFile>
+        <Shape target="BaseMaleHands3rd" DataFolder="Atomic Muscle - Hands">BaseMaleHands3rd</Shape>
+        <Shape target="MGlove:0">MGlove:0</Shape>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuclear BodyBuilder" target="BaseMaleHands3rd" local="true">[AM Vanilla] Cleanroom Gloves.osd\BaseMaleHands3rdNuclear BodyBuilder</Data>
+            <Data name="MGlove:0Nuclear BodyBuilder" target="MGlove:0" local="true">[AM Vanilla] Cleanroom Gloves.osd\MGlove:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuka Bull" target="BaseMaleHands3rd" local="true">[AM Vanilla] Cleanroom Gloves.osd\BaseMaleHands3rdNuka Bull</Data>
+            <Data name="MGlove:0Nuka Bull" target="MGlove:0" local="true">[AM Vanilla] Cleanroom Gloves.osd\MGlove:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="hzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="BaseMaleHands3rdhzap" target="BaseMaleHands3rd" local="true">[AM Vanilla] Cleanroom Gloves.osd\BaseMaleHands3rdhzap</Data>
+        </Slider>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MGlove:0Anus Spread" target="MGlove:0" local="true">[AM Vanilla] Cleanroom Gloves.osd\MGlove:0Anus Spread</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

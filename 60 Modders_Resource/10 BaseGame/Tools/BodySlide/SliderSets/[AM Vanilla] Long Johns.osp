@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Long Johns">
+        <DataFolder>[AM Vanilla] Long Johns</DataFolder>
+        <SourceFile>[AM Vanilla] Long Johns.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Raider02</OutputPath>
+        <OutputFile GenWeights="false">Raider02BaseArmor</OutputFile>
+        <Shape target="BaseMaleBody_Fitted:0">BaseMaleBody_Fitted:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="[AM Vanilla] Long Johns">MaleBodyNeverN</Shape>
+        <Shape target="Raider02Body:0_2">Raider02Body:0_2</Shape>
+        <Shape target="RaiderFlesh:0">RaiderFlesh:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Long Johns.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="BaseMaleBody_Fitted:0Anus Spread" target="BaseMaleBody_Fitted:0" local="true">[AM Vanilla] Long Johns.osd\BaseMaleBody_Fitted:0Anus Spread</Data>
+            <Data name="Raider02Body:0_2Anus Spread" target="Raider02Body:0_2" local="true">[AM Vanilla] Long Johns.osd\Raider02Body:0_2Anus Spread</Data>
+            <Data name="RaiderFlesh:0Anus Spread" target="RaiderFlesh:0" local="true">[AM Vanilla] Long Johns.osd\RaiderFlesh:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Long Johns.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="BaseMaleBody_Fitted:0Nuclear BodyBuilder" target="BaseMaleBody_Fitted:0" local="true">[AM Vanilla] Long Johns.osd\BaseMaleBody_Fitted:0Nuclear BodyBuilder</Data>
+            <Data name="Raider02Body:0_2Nuclear BodyBuilder" target="Raider02Body:0_2" local="true">[AM Vanilla] Long Johns.osd\Raider02Body:0_2Nuclear BodyBuilder</Data>
+            <Data name="RaiderFlesh:0Nuclear BodyBuilder" target="RaiderFlesh:0" local="true">[AM Vanilla] Long Johns.osd\RaiderFlesh:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Long Johns.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="BaseMaleBody_Fitted:0Nuka Bull" target="BaseMaleBody_Fitted:0" local="true">[AM Vanilla] Long Johns.osd\BaseMaleBody_Fitted:0Nuka Bull</Data>
+            <Data name="Raider02Body:0_2Nuka Bull" target="Raider02Body:0_2" local="true">[AM Vanilla] Long Johns.osd\Raider02Body:0_2Nuka Bull</Data>
+            <Data name="RaiderFlesh:0Nuka Bull" target="RaiderFlesh:0" local="true">[AM Vanilla] Long Johns.osd\RaiderFlesh:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Long Johns.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Raider02Body:0_2Bulge" target="Raider02Body:0_2" local="true">[AM Vanilla] Long Johns.osd\Raider02Body:0_2Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Long Johns.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

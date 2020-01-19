@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Science Scribe&apos;s Armor">
+        <DataFolder>[AM Vanilla] Science Scribe's Armor</DataFolder>
+        <SourceFile>[AM Vanilla] Science Scribe's Armor.nif</SourceFile>
+        <OutputPath>Meshes\Armor\ScienceScribe</OutputPath>
+        <OutputFile GenWeights="false">MOutfit</OutputFile>
+        <Shape target="MOutfit:0">MOutfit:0</Shape>
+        <Shape target="MOutfit:1">MOutfit:1</Shape>
+        <Shape target="MOutfit:2">MOutfit:2</Shape>
+        <Shape target="MOutfitGloves:0">MOutfitGloves:0</Shape>
+        <Shape target="MOutfitGloves:1">MOutfitGloves:1</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Science Scribe's Armor.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="MOutfitGloves:0Anus Spread" target="MOutfitGloves:0" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfitGloves:0Anus Spread</Data>
+            <Data name="MOutfit:0Anus Spread" target="MOutfit:0" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:0Anus Spread</Data>
+            <Data name="MOutfit:1Anus Spread" target="MOutfit:1" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:1Anus Spread</Data>
+            <Data name="MOutfit:2Anus Spread" target="MOutfit:2" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:2Anus Spread</Data>
+            <Data name="MOutfitGloves:1Anus Spread" target="MOutfitGloves:1" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfitGloves:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Science Scribe's Armor.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="MOutfitGloves:0Nuclear BodyBuilder" target="MOutfitGloves:0" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfitGloves:0Nuclear BodyBuilder</Data>
+            <Data name="MOutfit:0Nuclear BodyBuilder" target="MOutfit:0" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:0Nuclear BodyBuilder</Data>
+            <Data name="MOutfit:1Nuclear BodyBuilder" target="MOutfit:1" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:1Nuclear BodyBuilder</Data>
+            <Data name="MOutfit:2Nuclear BodyBuilder" target="MOutfit:2" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:2Nuclear BodyBuilder</Data>
+            <Data name="MOutfitGloves:1Nuclear BodyBuilder" target="MOutfitGloves:1" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfitGloves:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Science Scribe's Armor.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="MOutfitGloves:0Nuka Bull" target="MOutfitGloves:0" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfitGloves:0Nuka Bull</Data>
+            <Data name="MOutfit:0Nuka Bull" target="MOutfit:0" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:0Nuka Bull</Data>
+            <Data name="MOutfit:1Nuka Bull" target="MOutfit:1" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:1Nuka Bull</Data>
+            <Data name="MOutfit:2Nuka Bull" target="MOutfit:2" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:2Nuka Bull</Data>
+            <Data name="MOutfitGloves:1Nuka Bull" target="MOutfitGloves:1" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfitGloves:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Science Scribe's Armor.osd\NeverNude+HandsBulge</Data>
+            <Data name="MOutfit:0Bulge" target="MOutfit:0" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:0Bulge</Data>
+            <Data name="MOutfit:1Bulge" target="MOutfit:1" local="true">[AM Vanilla] Science Scribe's Armor.osd\MOutfit:1Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Science Scribe's Armor.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Utility Coveralls">
+        <DataFolder>[AM Vanilla] Utility Coveralls</DataFolder>
+        <SourceFile>[AM Vanilla] Utility Coveralls.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Sturgess</OutputPath>
+        <OutputFile GenWeights="false">SturgessTorso</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="SturgesBelt:0">SturgesBelt:0</Shape>
+        <Shape target="SturgesBelt:1">SturgesBelt:1</Shape>
+        <Shape target="SturgessTorso:0">SturgessTorso:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Utility Coveralls.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="SturgesBelt:0Anus Spread" target="SturgesBelt:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:0Anus Spread</Data>
+            <Data name="SturgesBelt:1Anus Spread" target="SturgesBelt:1" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:1Anus Spread</Data>
+            <Data name="SturgessTorso:0Anus Spread" target="SturgessTorso:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgessTorso:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Utility Coveralls.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="SturgesBelt:0Nuclear BodyBuilder" target="SturgesBelt:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:0Nuclear BodyBuilder</Data>
+            <Data name="SturgesBelt:1Nuclear BodyBuilder" target="SturgesBelt:1" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:1Nuclear BodyBuilder</Data>
+            <Data name="SturgessTorso:0Nuclear BodyBuilder" target="SturgessTorso:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgessTorso:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Utility Coveralls.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="SturgesBelt:0Nuka Bull" target="SturgesBelt:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:0Nuka Bull</Data>
+            <Data name="SturgesBelt:1Nuka Bull" target="SturgesBelt:1" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:1Nuka Bull</Data>
+            <Data name="SturgessTorso:0Nuka Bull" target="SturgessTorso:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgessTorso:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Utility Coveralls.osd\MaleBodyNeverNBulge</Data>
+            <Data name="SturgesBelt:0Bulge" target="SturgesBelt:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:0Bulge</Data>
+            <Data name="SturgesBelt:1Bulge" target="SturgesBelt:1" local="true">[AM Vanilla] Utility Coveralls.osd\SturgesBelt:1Bulge</Data>
+            <Data name="SturgessTorso:0Bulge" target="SturgessTorso:0" local="true">[AM Vanilla] Utility Coveralls.osd\SturgessTorso:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Utility Coveralls.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

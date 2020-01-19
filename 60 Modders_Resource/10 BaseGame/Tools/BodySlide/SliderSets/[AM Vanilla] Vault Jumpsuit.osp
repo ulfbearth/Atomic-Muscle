@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Vault Jumpsuit">
+        <DataFolder>[AM Vanilla] Vault Jumpsuit</DataFolder>
+        <SourceFile>[AM Vanilla] Vault Jumpsuit.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Vault111Suit</OutputPath>
+        <OutputFile GenWeights="false">Vault111Suit</OutputFile>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Shape target="Vault111Suit_YanEdits:0">Vault111Suit_YanEdits:0</Shape>
+        <Shape target="Vault111Suit_YanEdits:1">Vault111Suit_YanEdits:1</Shape>
+        <Shape target="VaultNumber:0">VaultNumber:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Vault Jumpsuit.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="VaultNumber:0Anus Spread" target="VaultNumber:0" local="true">[AM Vanilla] Vault Jumpsuit.osd\VaultNumber:0Anus Spread</Data>
+            <Data name="Vault111Suit_YanEdits:0Anus Spread" target="Vault111Suit_YanEdits:0" local="true">[AM Vanilla] Vault Jumpsuit.osd\Vault111Suit_YanEdits:0Anus Spread</Data>
+            <Data name="Vault111Suit_YanEdits:1Anus Spread" target="Vault111Suit_YanEdits:1" local="true">[AM Vanilla] Vault Jumpsuit.osd\Vault111Suit_YanEdits:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Vault Jumpsuit.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="VaultNumber:0Nuclear BodyBuilder" target="VaultNumber:0" local="true">[AM Vanilla] Vault Jumpsuit.osd\VaultNumber:0Nuclear BodyBuilder</Data>
+            <Data name="Vault111Suit_YanEdits:0Nuclear BodyBuilder" target="Vault111Suit_YanEdits:0" local="true">[AM Vanilla] Vault Jumpsuit.osd\Vault111Suit_YanEdits:0Nuclear BodyBuilder</Data>
+            <Data name="Vault111Suit_YanEdits:1Nuclear BodyBuilder" target="Vault111Suit_YanEdits:1" local="true">[AM Vanilla] Vault Jumpsuit.osd\Vault111Suit_YanEdits:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Vault Jumpsuit.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="VaultNumber:0Nuka Bull" target="VaultNumber:0" local="true">[AM Vanilla] Vault Jumpsuit.osd\VaultNumber:0Nuka Bull</Data>
+            <Data name="Vault111Suit_YanEdits:0Nuka Bull" target="Vault111Suit_YanEdits:0" local="true">[AM Vanilla] Vault Jumpsuit.osd\Vault111Suit_YanEdits:0Nuka Bull</Data>
+            <Data name="Vault111Suit_YanEdits:1Nuka Bull" target="Vault111Suit_YanEdits:1" local="true">[AM Vanilla] Vault Jumpsuit.osd\Vault111Suit_YanEdits:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Vault Jumpsuit.osd\NeverNude+HandsBulge</Data>
+            <Data name="Vault111Suit_YanEdits:0Bulge" target="Vault111Suit_YanEdits:0" local="true">[AM Vanilla] Vault Jumpsuit.osd\Vault111Suit_YanEdits:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Vault Jumpsuit.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

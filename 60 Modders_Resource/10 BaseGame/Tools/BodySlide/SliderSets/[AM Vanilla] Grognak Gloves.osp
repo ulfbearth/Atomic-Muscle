@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Grognak Gloves">
+        <DataFolder>[AM Vanilla] Grognak Gloves</DataFolder>
+        <SourceFile>[AM Vanilla] Grognak Gloves.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Grognak</OutputPath>
+        <OutputFile GenWeights="false">MGloves</OutputFile>
+        <Shape target="BaseMaleHands3rd" DataFolder="[AM Vanilla] Grognak Gloves">BaseMaleHands3rd</Shape>
+        <Shape target="MGloves:0">MGloves:0</Shape>
+        <Shape target="MGloves:1">MGloves:1</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MGloves:0Anus Spread" target="MGloves:0" local="true">[AM Vanilla] Grognak Gloves.osd\MGloves:0Anus Spread</Data>
+            <Data name="MGloves:1Anus Spread" target="MGloves:1" local="true">[AM Vanilla] Grognak Gloves.osd\MGloves:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuclear BodyBuilder" target="BaseMaleHands3rd" local="true">[AM Vanilla] Grognak Gloves.osd\BaseMaleHands3rdNuclear BodyBuilder</Data>
+            <Data name="MGloves:0Nuclear BodyBuilder" target="MGloves:0" local="true">[AM Vanilla] Grognak Gloves.osd\MGloves:0Nuclear BodyBuilder</Data>
+            <Data name="MGloves:1Nuclear BodyBuilder" target="MGloves:1" local="true">[AM Vanilla] Grognak Gloves.osd\MGloves:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuka Bull" target="BaseMaleHands3rd" local="true">[AM Vanilla] Grognak Gloves.osd\BaseMaleHands3rdNuka Bull</Data>
+            <Data name="MGloves:0Nuka Bull" target="MGloves:0" local="true">[AM Vanilla] Grognak Gloves.osd\MGloves:0Nuka Bull</Data>
+            <Data name="MGloves:1Nuka Bull" target="MGloves:1" local="true">[AM Vanilla] Grognak Gloves.osd\MGloves:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="hzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="BaseMaleHands3rdhzap" target="BaseMaleHands3rd" local="true">[AM Vanilla] Grognak Gloves.osd\BaseMaleHands3rdhzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

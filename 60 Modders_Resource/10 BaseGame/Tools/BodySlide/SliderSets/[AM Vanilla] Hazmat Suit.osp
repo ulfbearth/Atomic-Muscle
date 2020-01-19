@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Hazmat Suit">
+        <DataFolder>[AM Vanilla] Hazmat Suit</DataFolder>
+        <SourceFile>[AM Vanilla] Hazmat Suit.nif</SourceFile>
+        <OutputPath>Meshes\Armor\HazmatSuit</OutputPath>
+        <OutputFile GenWeights="false">MOutfit</OutputFile>
+        <Shape target="MGlovesDamaged:0">MGlovesDamaged:0</Shape>
+        <Shape target="MOutfitDamaged:0">MOutfitDamaged:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Hazmat Suit.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MGlovesDamaged:0Anus Spread" target="MGlovesDamaged:0" local="true">[AM Vanilla] Hazmat Suit.osd\MGlovesDamaged:0Anus Spread</Data>
+            <Data name="MOutfitDamaged:0Anus Spread" target="MOutfitDamaged:0" local="true">[AM Vanilla] Hazmat Suit.osd\MOutfitDamaged:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Hazmat Suit.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MGlovesDamaged:0Nuclear BodyBuilder" target="MGlovesDamaged:0" local="true">[AM Vanilla] Hazmat Suit.osd\MGlovesDamaged:0Nuclear BodyBuilder</Data>
+            <Data name="MOutfitDamaged:0Nuclear BodyBuilder" target="MOutfitDamaged:0" local="true">[AM Vanilla] Hazmat Suit.osd\MOutfitDamaged:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Hazmat Suit.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MGlovesDamaged:0Nuka Bull" target="MGlovesDamaged:0" local="true">[AM Vanilla] Hazmat Suit.osd\MGlovesDamaged:0Nuka Bull</Data>
+            <Data name="MOutfitDamaged:0Nuka Bull" target="MOutfitDamaged:0" local="true">[AM Vanilla] Hazmat Suit.osd\MOutfitDamaged:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Hazmat Suit.osd\MaleBodyNeverNBulge</Data>
+            <Data name="MOutfitDamaged:0Bulge" target="MOutfitDamaged:0" local="true">[AM Vanilla] Hazmat Suit.osd\MOutfitDamaged:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Hazmat Suit.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

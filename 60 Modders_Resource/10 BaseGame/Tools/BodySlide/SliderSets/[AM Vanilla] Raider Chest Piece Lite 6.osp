@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Raider Chest Piece Lite 6">
+        <DataFolder>[AM Vanilla] Raider Chest Piece Lite 6</DataFolder>
+        <SourceFile>[AM Vanilla] Raider Chest Piece Lite 6.nif</SourceFile>
+        <OutputPath>Meshes\Armor\RaiderModArmor</OutputPath>
+        <OutputFile GenWeights="false">LiteTorso2</OutputFile>
+        <Shape target="LiteTorso02:0">LiteTorso02:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="LiteTorso02:0Anus Spread" target="LiteTorso02:0" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\LiteTorso02:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="LiteTorso02:0Nuclear BodyBuilder" target="LiteTorso02:0" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\LiteTorso02:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="LiteTorso02:0Nuka Bull" target="LiteTorso02:0" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\LiteTorso02:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\MaleBodyNeverNBulge</Data>
+            <Data name="LiteTorso02:0Bulge" target="LiteTorso02:0" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\LiteTorso02:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Raider Chest Piece Lite 6.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

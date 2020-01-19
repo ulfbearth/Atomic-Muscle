@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Maxson&apos;s Battlecoat">
+        <DataFolder>[AM Vanilla] Maxson's Battlecoat</DataFolder>
+        <SourceFile>[AM Vanilla] Maxson's Battlecoat.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Maxson</OutputPath>
+        <OutputFile GenWeights="false">MaxsonCoat</OutputFile>
+        <Shape target="Body:0">Body:0</Shape>
+        <Shape target="MaxsonCoat:0">MaxsonCoat:0</Shape>
+        <Shape target="NeverNude+Hands">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Maxson's Battlecoat.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="Body:0Anus Spread" target="Body:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\Body:0Anus Spread</Data>
+            <Data name="MaxsonCoat:0Anus Spread" target="MaxsonCoat:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\MaxsonCoat:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Maxson's Battlecoat.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="Body:0Nuclear BodyBuilder" target="Body:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\Body:0Nuclear BodyBuilder</Data>
+            <Data name="MaxsonCoat:0Nuclear BodyBuilder" target="MaxsonCoat:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\MaxsonCoat:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Maxson's Battlecoat.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="Body:0Nuka Bull" target="Body:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\Body:0Nuka Bull</Data>
+            <Data name="MaxsonCoat:0Nuka Bull" target="MaxsonCoat:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\MaxsonCoat:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Maxson's Battlecoat.osd\NeverNude+HandsBulge</Data>
+            <Data name="Body:0Bulge" target="Body:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\Body:0Bulge</Data>
+            <Data name="MaxsonCoat:0Bulge" target="MaxsonCoat:0" local="true">[AM Vanilla] Maxson's Battlecoat.osd\MaxsonCoat:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Maxson's Battlecoat.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

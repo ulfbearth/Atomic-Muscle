@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Traveling . Leather Coat Gloves">
+        <DataFolder>[AM Vanilla] Traveling . Leather Coat Gloves</DataFolder>
+        <SourceFile>[AM Vanilla] Traveling . Leather Coat Gloves.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Raider03</OutputPath>
+        <OutputFile GenWeights="false">RaiderGloves03M</OutputFile>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Shape target="RaiderGloves03M:0">RaiderGloves03M:0</Shape>
+        <Shape target="UVGlovePipboyOn:0">UVGlovePipboyOn:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="UVGlovePipboyOn:0Anus Spread" target="UVGlovePipboyOn:0" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\UVGlovePipboyOn:0Anus Spread</Data>
+            <Data name="RaiderGloves03M:0Anus Spread" target="RaiderGloves03M:0" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\RaiderGloves03M:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="UVGlovePipboyOn:0Nuclear BodyBuilder" target="UVGlovePipboyOn:0" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\UVGlovePipboyOn:0Nuclear BodyBuilder</Data>
+            <Data name="RaiderGloves03M:0Nuclear BodyBuilder" target="RaiderGloves03M:0" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\RaiderGloves03M:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="UVGlovePipboyOn:0Nuka Bull" target="UVGlovePipboyOn:0" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\UVGlovePipboyOn:0Nuka Bull</Data>
+            <Data name="RaiderGloves03M:0Nuka Bull" target="RaiderGloves03M:0" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\RaiderGloves03M:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\NeverNude+HandsBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Traveling . Leather Coat Gloves.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

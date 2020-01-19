@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] DC Guard Armor Arm Lower Right">
+        <DataFolder>[AM Vanilla] DC Guard Armor Arm Lower Right</DataFolder>
+        <SourceFile>[AM Vanilla] DC Guard Armor Arm Lower Right.nif</SourceFile>
+        <OutputPath>Meshes\Armor\DCGuard</OutputPath>
+        <OutputFile GenWeights="false">MArmRArmorLower</OutputFile>
+        <Shape target="DC Guard Armor Arm">DC Guard Armor Arm</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="DC Guard Armor ArmAnus Spread" target="DC Guard Armor Arm" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\DC Guard Armor ArmAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="DC Guard Armor ArmNuclear BodyBuilder" target="DC Guard Armor Arm" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\DC Guard Armor ArmNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="DC Guard Armor ArmNuka Bull" target="DC Guard Armor Arm" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\DC Guard Armor ArmNuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] DC Guard Armor Arm Lower Right.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

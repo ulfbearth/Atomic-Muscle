@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Athletic Outfit">
+        <DataFolder>[AM Vanilla] Athletic Outfit</DataFolder>
+        <SourceFile>[AM Vanilla] Athletic Outfit.nif</SourceFile>
+        <OutputPath>Meshes\Armor\DCGuard</OutputPath>
+        <OutputFile GenWeights="false">MOutfit</OutputFile>
+        <Shape target="DCBelt">DCBelt</Shape>
+        <Shape target="MOutfit_fix:0">MOutfit_fix:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Athletic Outfit.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MOutfit_fix:0Anus Spread" target="MOutfit_fix:0" local="true">[AM Vanilla] Athletic Outfit.osd\MOutfit_fix:0Anus Spread</Data>
+            <Data name="DCBeltAnus Spread" target="DCBelt" local="true">[AM Vanilla] Athletic Outfit.osd\DCBeltAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Athletic Outfit.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MOutfit_fix:0Nuclear BodyBuilder" target="MOutfit_fix:0" local="true">[AM Vanilla] Athletic Outfit.osd\MOutfit_fix:0Nuclear BodyBuilder</Data>
+            <Data name="DCBeltNuclear BodyBuilder" target="DCBelt" local="true">[AM Vanilla] Athletic Outfit.osd\DCBeltNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Athletic Outfit.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MOutfit_fix:0Nuka Bull" target="MOutfit_fix:0" local="true">[AM Vanilla] Athletic Outfit.osd\MOutfit_fix:0Nuka Bull</Data>
+            <Data name="DCBeltNuka Bull" target="DCBelt" local="true">[AM Vanilla] Athletic Outfit.osd\DCBeltNuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Athletic Outfit.osd\MaleBodyNeverNBulge</Data>
+            <Data name="MOutfit_fix:0Bulge" target="MOutfit_fix:0" local="true">[AM Vanilla] Athletic Outfit.osd\MOutfit_fix:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Athletic Outfit.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

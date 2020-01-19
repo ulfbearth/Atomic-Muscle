@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Scavenger Outfit">
+        <DataFolder>[AM Vanilla] Scavenger Outfit</DataFolder>
+        <SourceFile>[AM Vanilla] Scavenger Outfit.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Wastelander02</OutputPath>
+        <OutputFile GenWeights="false">Outfit02M</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="Outfit_cloth:0">Outfit_cloth:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Scavenger Outfit.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Outfit_cloth:0Anus Spread" target="Outfit_cloth:0" local="true">[AM Vanilla] Scavenger Outfit.osd\Outfit_cloth:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Scavenger Outfit.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Outfit_cloth:0Nuclear BodyBuilder" target="Outfit_cloth:0" local="true">[AM Vanilla] Scavenger Outfit.osd\Outfit_cloth:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Scavenger Outfit.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Outfit_cloth:0Nuka Bull" target="Outfit_cloth:0" local="true">[AM Vanilla] Scavenger Outfit.osd\Outfit_cloth:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Scavenger Outfit.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Outfit_cloth:0Bulge" target="Outfit_cloth:0" local="true">[AM Vanilla] Scavenger Outfit.osd\Outfit_cloth:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Scavenger Outfit.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

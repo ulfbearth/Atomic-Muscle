@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Helmeted Spike Armor">
+        <DataFolder>[AM Vanilla] Helmeted Spike Armor</DataFolder>
+        <SourceFile>[AM Vanilla] Helmeted Spike Armor.nif</SourceFile>
+        <OutputPath>Meshes\Armor\RaiderHeavy</OutputPath>
+        <OutputFile GenWeights="false">MArmorMedium</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="Raider_Medium_Armor_Cloth:0">Raider_Medium_Armor_Cloth:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Helmeted Spike Armor.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Raider_Medium_Armor_Cloth:0Anus Spread" target="Raider_Medium_Armor_Cloth:0" local="true">[AM Vanilla] Helmeted Spike Armor.osd\Raider_Medium_Armor_Cloth:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Helmeted Spike Armor.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Raider_Medium_Armor_Cloth:0Nuclear BodyBuilder" target="Raider_Medium_Armor_Cloth:0" local="true">[AM Vanilla] Helmeted Spike Armor.osd\Raider_Medium_Armor_Cloth:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Helmeted Spike Armor.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Raider_Medium_Armor_Cloth:0Nuka Bull" target="Raider_Medium_Armor_Cloth:0" local="true">[AM Vanilla] Helmeted Spike Armor.osd\Raider_Medium_Armor_Cloth:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Helmeted Spike Armor.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Raider_Medium_Armor_Cloth:0Bulge" target="Raider_Medium_Armor_Cloth:0" local="true">[AM Vanilla] Helmeted Spike Armor.osd\Raider_Medium_Armor_Cloth:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Helmeted Spike Armor.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

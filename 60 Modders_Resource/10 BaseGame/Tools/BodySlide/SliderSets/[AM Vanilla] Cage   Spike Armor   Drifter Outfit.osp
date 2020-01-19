@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Cage   Spike Armor   Drifter Outfit">
+        <DataFolder>[AM Vanilla] Cage   Spike Armor   Drifter Outfit</DataFolder>
+        <SourceFile>[AM Vanilla] Cage   Spike Armor   Drifter Outfit.nif</SourceFile>
+        <OutputPath>Meshes\Armor\RaiderHeavy</OutputPath>
+        <OutputFile GenWeights="false">MUnderArmor</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="[AM Vanilla] Cage   Spike Armor   Drifter Outfit">MaleBodyNeverN</Shape>
+        <Shape target="Raider_Heavy_Underwear_body_Cloth:0">Raider_Heavy_Underwear_body_Cloth:0</Shape>
+        <Shape target="Raider_Heavy_Underwear_body_Cloth:1">Raider_Heavy_Underwear_body_Cloth:1</Shape>
+        <Shape target="Raider_Heavy_Underwear_glove:0">Raider_Heavy_Underwear_glove:0</Shape>
+        <Shape target="Raider_Heavy_Underwear_glove:1">Raider_Heavy_Underwear_glove:1</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Raider_Heavy_Underwear_glove:0Anus Spread" target="Raider_Heavy_Underwear_glove:0" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_glove:0Anus Spread</Data>
+            <Data name="Raider_Heavy_Underwear_body_Cloth:0Anus Spread" target="Raider_Heavy_Underwear_body_Cloth:0" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_body_Cloth:0Anus Spread</Data>
+            <Data name="Raider_Heavy_Underwear_body_Cloth:1Anus Spread" target="Raider_Heavy_Underwear_body_Cloth:1" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_body_Cloth:1Anus Spread</Data>
+            <Data name="Raider_Heavy_Underwear_glove:1Anus Spread" target="Raider_Heavy_Underwear_glove:1" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_glove:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Raider_Heavy_Underwear_glove:0Nuclear BodyBuilder" target="Raider_Heavy_Underwear_glove:0" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_glove:0Nuclear BodyBuilder</Data>
+            <Data name="Raider_Heavy_Underwear_body_Cloth:0Nuclear BodyBuilder" target="Raider_Heavy_Underwear_body_Cloth:0" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_body_Cloth:0Nuclear BodyBuilder</Data>
+            <Data name="Raider_Heavy_Underwear_body_Cloth:1Nuclear BodyBuilder" target="Raider_Heavy_Underwear_body_Cloth:1" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_body_Cloth:1Nuclear BodyBuilder</Data>
+            <Data name="Raider_Heavy_Underwear_glove:1Nuclear BodyBuilder" target="Raider_Heavy_Underwear_glove:1" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_glove:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Raider_Heavy_Underwear_glove:0Nuka Bull" target="Raider_Heavy_Underwear_glove:0" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_glove:0Nuka Bull</Data>
+            <Data name="Raider_Heavy_Underwear_body_Cloth:0Nuka Bull" target="Raider_Heavy_Underwear_body_Cloth:0" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_body_Cloth:0Nuka Bull</Data>
+            <Data name="Raider_Heavy_Underwear_body_Cloth:1Nuka Bull" target="Raider_Heavy_Underwear_body_Cloth:1" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_body_Cloth:1Nuka Bull</Data>
+            <Data name="Raider_Heavy_Underwear_glove:1Nuka Bull" target="Raider_Heavy_Underwear_glove:1" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_glove:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Raider_Heavy_Underwear_body_Cloth:0Bulge" target="Raider_Heavy_Underwear_body_Cloth:0" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\Raider_Heavy_Underwear_body_Cloth:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Cage   Spike Armor   Drifter Outfit.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Leather Arm Lite Studs Left">
+        <DataFolder>[AM Vanilla] Leather Arm Lite Studs Left</DataFolder>
+        <SourceFile>[AM Vanilla] Leather Arm Lite Studs Left.nif</SourceFile>
+        <OutputPath>Meshes\Armor\Leather</OutputPath>
+        <OutputFile GenWeights="false">M_Arm_Lite_LStuds</OutputFile>
+        <Shape target="M_Arm_Lite_LStuds:0">M_Arm_Lite_LStuds:0</Shape>
+        <Shape target="M_Arm_Lite_LStuds:1">M_Arm_Lite_LStuds:1</Shape>
+        <Shape target="M_Arm_Lite_LStuds:2">M_Arm_Lite_LStuds:2</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="[AM Vanilla] Leather Arm Lite Studs Right">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="M_Arm_Lite_LStuds:0Anus Spread" target="M_Arm_Lite_LStuds:0" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:0Anus Spread</Data>
+            <Data name="M_Arm_Lite_LStuds:1Anus Spread" target="M_Arm_Lite_LStuds:1" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:1Anus Spread</Data>
+            <Data name="M_Arm_Lite_LStuds:2Anus Spread" target="M_Arm_Lite_LStuds:2" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:2Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="M_Arm_Lite_LStuds:0Nuclear BodyBuilder" target="M_Arm_Lite_LStuds:0" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:0Nuclear BodyBuilder</Data>
+            <Data name="M_Arm_Lite_LStuds:1Nuclear BodyBuilder" target="M_Arm_Lite_LStuds:1" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:1Nuclear BodyBuilder</Data>
+            <Data name="M_Arm_Lite_LStuds:2Nuclear BodyBuilder" target="M_Arm_Lite_LStuds:2" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:2Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="M_Arm_Lite_LStuds:0Nuka Bull" target="M_Arm_Lite_LStuds:0" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:0Nuka Bull</Data>
+            <Data name="M_Arm_Lite_LStuds:1Nuka Bull" target="M_Arm_Lite_LStuds:1" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:1Nuka Bull</Data>
+            <Data name="M_Arm_Lite_LStuds:2Nuka Bull" target="M_Arm_Lite_LStuds:2" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\M_Arm_Lite_LStuds:2Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\NeverNude+HandsBulge</Data>
+        </Slider>
+        <Slider name="bodyzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbodyzap" target="NeverNude+Hands" local="true">[AM Vanilla] Leather Arm Lite Studs Left.osd\NeverNude+Handsbodyzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

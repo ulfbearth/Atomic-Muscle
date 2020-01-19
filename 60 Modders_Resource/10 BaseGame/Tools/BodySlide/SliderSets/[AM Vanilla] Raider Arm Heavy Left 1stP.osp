@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Raider Arm Heavy Left 1stP">
+        <DataFolder>[AM Vanilla] Raider Arm Heavy Left 1stP</DataFolder>
+        <SourceFile>[AM Vanilla] Raider Arm Heavy Left 1stP.nif</SourceFile>
+        <OutputPath>Meshes\Armor\RaiderModArmor</OutputPath>
+        <OutputFile GenWeights="false">HvyLArm_1stPerson</OutputFile>
+        <Shape target="HvyLArm:0">HvyLArm:0</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="HvyLArm:0Anus Spread" target="HvyLArm:0" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\HvyLArm:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="HvyLArm:0Nuclear BodyBuilder" target="HvyLArm:0" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\HvyLArm:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="HvyLArm:0Nuka Bull" target="HvyLArm:0" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\HvyLArm:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\NeverNude+HandsBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Raider Arm Heavy Left 1stP.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

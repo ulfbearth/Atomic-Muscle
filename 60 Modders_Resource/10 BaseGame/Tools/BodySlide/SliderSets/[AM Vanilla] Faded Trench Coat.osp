@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Faded Trench Coat">
+        <DataFolder>[AM Vanilla] Faded Trench Coat</DataFolder>
+        <SourceFile>[AM Vanilla] Faded Trench Coat.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Valentine</OutputPath>
+        <OutputFile GenWeights="false">MCoat</OutputFile>
+        <Shape target="MCoat:0">MCoat:0</Shape>
+        <Shape target="MCoat:1">MCoat:1</Shape>
+        <Shape target="MCoatWaistCap:0">MCoatWaistCap:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM Vanilla] Faded Trench Coat.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MCoatWaistCap:0Anus Spread" target="MCoatWaistCap:0" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoatWaistCap:0Anus Spread</Data>
+            <Data name="MCoat:0Anus Spread" target="MCoat:0" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:0Anus Spread</Data>
+            <Data name="MCoat:1Anus Spread" target="MCoat:1" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM Vanilla] Faded Trench Coat.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MCoatWaistCap:0Nuclear BodyBuilder" target="MCoatWaistCap:0" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoatWaistCap:0Nuclear BodyBuilder</Data>
+            <Data name="MCoat:0Nuclear BodyBuilder" target="MCoat:0" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:0Nuclear BodyBuilder</Data>
+            <Data name="MCoat:1Nuclear BodyBuilder" target="MCoat:1" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM Vanilla] Faded Trench Coat.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MCoatWaistCap:0Nuka Bull" target="MCoatWaistCap:0" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoatWaistCap:0Nuka Bull</Data>
+            <Data name="MCoat:0Nuka Bull" target="MCoat:0" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:0Nuka Bull</Data>
+            <Data name="MCoat:1Nuka Bull" target="MCoat:1" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM Vanilla] Faded Trench Coat.osd\MaleBodyNeverNBulge</Data>
+            <Data name="MCoat:0Bulge" target="MCoat:0" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:0Bulge</Data>
+            <Data name="MCoat:1Bulge" target="MCoat:1" local="true">[AM Vanilla] Faded Trench Coat.osd\MCoat:1Bulge</Data>
+        </Slider>
+        <Slider name="bodyzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbodyzap" target="MaleBodyNeverN" local="true">[AM Vanilla] Faded Trench Coat.osd\MaleBodyNeverNbodyzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

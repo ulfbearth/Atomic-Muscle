@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM Vanilla] Padded Blue Jacket">
+        <DataFolder>[AM Vanilla] Padded Blue Jacket</DataFolder>
+        <SourceFile>[AM Vanilla] Padded Blue Jacket.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Residents</OutputPath>
+        <OutputFile GenWeights="false">7SuitM</OutputFile>
+        <Shape target="7SuitM:0">7SuitM:0</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM Vanilla] Padded Blue Jacket.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="7SuitM:0Anus Spread" target="7SuitM:0" local="true">[AM Vanilla] Padded Blue Jacket.osd\7SuitM:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM Vanilla] Padded Blue Jacket.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="7SuitM:0Nuclear BodyBuilder" target="7SuitM:0" local="true">[AM Vanilla] Padded Blue Jacket.osd\7SuitM:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM Vanilla] Padded Blue Jacket.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="7SuitM:0Nuka Bull" target="7SuitM:0" local="true">[AM Vanilla] Padded Blue Jacket.osd\7SuitM:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM Vanilla] Padded Blue Jacket.osd\NeverNude+HandsBulge</Data>
+            <Data name="7SuitM:0Bulge" target="7SuitM:0" local="true">[AM Vanilla] Padded Blue Jacket.osd\7SuitM:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM Vanilla] Padded Blue Jacket.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
