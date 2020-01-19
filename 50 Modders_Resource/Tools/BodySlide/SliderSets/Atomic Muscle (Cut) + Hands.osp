@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Atomic Muscle (Cut) + Hands">
+        <DataFolder>Atomic Muscle (Cut) + Hands</DataFolder>
+        <SourceFile>Atomic Muscle (Cut) + Hands.nif</SourceFile>
+        <OutputPath>meshes\actors\character\characterassets</OutputPath>
+        <OutputFile GenWeights="false">test</OutputFile>
+        <Shape target="cut_+_hands">cut_+_hands</Shape>
+        <Slider name="Shaft Width" invert="false" default="0">
+            <Data name="cut_+_handsShaft Width" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsShaft Width</Data>
+        </Slider>
+        <Slider name="Erection" invert="false" default="0">
+            <Data name="cut_+_handsErection" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsErection</Data>
+        </Slider>
+        <Slider name="Erection Up" invert="false" default="0">
+            <Data name="cut_+_handsErection Up" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsErection Up</Data>
+        </Slider>
+        <Slider name="Erection Down" invert="false" default="0">
+            <Data name="cut_+_handsErection Down" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsErection Down</Data>
+        </Slider>
+        <Slider name="Sack Size" invert="false" default="0">
+            <Data name="cut_+_handsSack Size" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsSack Size</Data>
+        </Slider>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="cut_+_handsAnus Spread" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="cut_+_handsNuclear BodyBuilder" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="cut_+_handsNuka Bull" target="cut_+_hands" local="true">Atomic Muscle (Cut) + Hands.osd\cut_+_handsNuka Bull</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
