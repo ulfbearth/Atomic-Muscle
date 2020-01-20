@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP">
+        <DataFolder>[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP</DataFolder>
+        <SourceFile>[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Clothes\Operators</OutputPath>
+        <OutputFile GenWeights="false">OperatorSuitM_1stP</OutputFile>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Shape target="OperatorSuitM:0">OperatorSuitM:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="OperatorSuitM:0Anus Spread" target="OperatorSuitM:0" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\OperatorSuitM:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="OperatorSuitM:0Nuclear BodyBuilder" target="OperatorSuitM:0" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\OperatorSuitM:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="OperatorSuitM:0Nuka Bull" target="OperatorSuitM:0" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\OperatorSuitM:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\NeverNude+HandsBulge</Data>
+        </Slider>
+        <Slider name="hzap" invert="false" default="0" hidden="true" zap="true">
+            <Data name="NeverNude+Handshzap" target="NeverNude+Hands" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\NeverNude+Handshzap</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM DLC NW] Fancy Plaid Suit &amp; String Tie 1stP.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

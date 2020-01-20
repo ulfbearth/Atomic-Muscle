@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor">
+        <DataFolder>[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor</DataFolder>
+        <SourceFile>[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Armor\Disciples</OutputPath>
+        <OutputFile GenWeights="false">DiscipleUnderArmorM_C</OutputFile>
+        <Shape target="BootsB:0">BootsB:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="PantsB:0">PantsB:0</Shape>
+        <Shape target="TopA:0">TopA:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="BootsB:0Anus Spread" target="BootsB:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\BootsB:0Anus Spread</Data>
+            <Data name="TopA:0Anus Spread" target="TopA:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\TopA:0Anus Spread</Data>
+            <Data name="PantsB:0Anus Spread" target="PantsB:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\PantsB:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="BootsB:0Nuclear BodyBuilder" target="BootsB:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\BootsB:0Nuclear BodyBuilder</Data>
+            <Data name="TopA:0Nuclear BodyBuilder" target="TopA:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\TopA:0Nuclear BodyBuilder</Data>
+            <Data name="PantsB:0Nuclear BodyBuilder" target="PantsB:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\PantsB:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="BootsB:0Nuka Bull" target="BootsB:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\BootsB:0Nuka Bull</Data>
+            <Data name="TopA:0Nuka Bull" target="TopA:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\TopA:0Nuka Bull</Data>
+            <Data name="PantsB:0Nuka Bull" target="PantsB:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\PantsB:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\MaleBodyNeverNBulge</Data>
+            <Data name="PantsB:0Bulge" target="PantsB:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\PantsB:0Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Jeans Underarmor.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Torn Shirt &amp; Jeans Gloves">
+        <DataFolder>[AM DLC NW] Torn Shirt &amp; Jeans Gloves</DataFolder>
+        <SourceFile>[AM DLC NW] Torn Shirt &amp; Jeans Gloves.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Clothes\Disciples</OutputPath>
+        <OutputFile GenWeights="false">DiscipleUnderArmorM_B_Gloves</OutputFile>
+        <Shape target="BaseMaleHands3rdB:0">BaseMaleHands3rdB:0</Shape>
+        <Shape target="GlovesB:0">GlovesB:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="GlovesB:0Anus Spread" target="GlovesB:0" local="true">[AM DLC NW] Torn Shirt &amp; Jeans Gloves.osd\GlovesB:0Anus Spread</Data>
+            <Data name="BaseMaleHands3rdB:0Anus Spread" target="BaseMaleHands3rdB:0" local="true">[AM DLC NW] Torn Shirt &amp; Jeans Gloves.osd\BaseMaleHands3rdB:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="GlovesB:0Nuclear BodyBuilder" target="GlovesB:0" local="true">[AM DLC NW] Torn Shirt &amp; Jeans Gloves.osd\GlovesB:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="GlovesB:0Nuka Bull" target="GlovesB:0" local="true">[AM DLC NW] Torn Shirt &amp; Jeans Gloves.osd\GlovesB:0Nuka Bull</Data>
+            <Data name="BaseMaleHands3rdB:0Nuka Bull" target="BaseMaleHands3rdB:0" local="true">[AM DLC NW] Torn Shirt &amp; Jeans Gloves.osd\BaseMaleHands3rdB:0Nuka Bull</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

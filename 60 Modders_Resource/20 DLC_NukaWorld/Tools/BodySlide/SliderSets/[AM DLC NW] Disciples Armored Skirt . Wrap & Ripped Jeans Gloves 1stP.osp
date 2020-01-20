@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Ripped Jeans Gloves 1stP">
+        <DataFolder>[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Ripped Jeans Gloves 1stP</DataFolder>
+        <SourceFile>[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Ripped Jeans Gloves 1stP.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Clothes\Disciples</OutputPath>
+        <OutputFile GenWeights="false">DiscipleUnderArmorM_C_1ST_Gloves</OutputFile>
+        <Shape target="BaseMaleHands3rd" DataFolder="Atomic Muscle - Hands">BaseMaleHands3rd</Shape>
+        <Shape target="GlovesA:0">GlovesA:0</Shape>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuclear BodyBuilder" target="BaseMaleHands3rd" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Ripped Jeans Gloves 1stP.osd\BaseMaleHands3rdNuclear BodyBuilder</Data>
+            <Data name="GlovesA:0Nuclear BodyBuilder" target="GlovesA:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Ripped Jeans Gloves 1stP.osd\GlovesA:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="BaseMaleHands3rdNuka Bull" target="BaseMaleHands3rd" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Ripped Jeans Gloves 1stP.osd\BaseMaleHands3rdNuka Bull</Data>
+            <Data name="GlovesA:0Nuka Bull" target="GlovesA:0" local="true">[AM DLC NW] Disciples Armored Skirt . Wrap &amp; Ripped Jeans Gloves 1stP.osd\GlovesA:0Nuka Bull</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

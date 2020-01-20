@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Furry Pants &amp; T-Shirt">
+        <DataFolder>[AM DLC NW] Furry Pants &amp; T-Shirt</DataFolder>
+        <SourceFile>[AM DLC NW] Furry Pants &amp; T-Shirt.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Clothes\Mason</OutputPath>
+        <OutputFile GenWeights="false">MasonUnderArmor_M</OutputFile>
+        <Shape target="MaleBodyNeverN">MaleBodyNeverN</Shape>
+        <Shape target="MasonKneePads_M:2">MasonKneePads_M:2</Shape>
+        <Shape target="MasonUnderArmor_M:0">MasonUnderArmor_M:0</Shape>
+        <Shape target="MasonUnderArmor_M:1">MasonUnderArmor_M:1</Shape>
+        <Shape target="zg_UnderArmor2_M:1">zg_UnderArmor2_M:1</Shape>
+        <Shape target="zg_UnderArmor2_M_FURS:1">zg_UnderArmor2_M_FURS:1</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="MasonKneePads_M:2Anus Spread" target="MasonKneePads_M:2" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonKneePads_M:2Anus Spread</Data>
+            <Data name="zg_UnderArmor2_M_FURS:1Anus Spread" target="zg_UnderArmor2_M_FURS:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M_FURS:1Anus Spread</Data>
+            <Data name="MasonUnderArmor_M:0Anus Spread" target="MasonUnderArmor_M:0" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonUnderArmor_M:0Anus Spread</Data>
+            <Data name="MasonUnderArmor_M:1Anus Spread" target="MasonUnderArmor_M:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonUnderArmor_M:1Anus Spread</Data>
+            <Data name="zg_UnderArmor2_M:1Anus Spread" target="zg_UnderArmor2_M:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M:1Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="MasonKneePads_M:2Nuclear BodyBuilder" target="MasonKneePads_M:2" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonKneePads_M:2Nuclear BodyBuilder</Data>
+            <Data name="zg_UnderArmor2_M_FURS:1Nuclear BodyBuilder" target="zg_UnderArmor2_M_FURS:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M_FURS:1Nuclear BodyBuilder</Data>
+            <Data name="MasonUnderArmor_M:0Nuclear BodyBuilder" target="MasonUnderArmor_M:0" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonUnderArmor_M:0Nuclear BodyBuilder</Data>
+            <Data name="MasonUnderArmor_M:1Nuclear BodyBuilder" target="MasonUnderArmor_M:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonUnderArmor_M:1Nuclear BodyBuilder</Data>
+            <Data name="zg_UnderArmor2_M:1Nuclear BodyBuilder" target="zg_UnderArmor2_M:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="MasonKneePads_M:2Nuka Bull" target="MasonKneePads_M:2" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonKneePads_M:2Nuka Bull</Data>
+            <Data name="zg_UnderArmor2_M_FURS:1Nuka Bull" target="zg_UnderArmor2_M_FURS:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M_FURS:1Nuka Bull</Data>
+            <Data name="MasonUnderArmor_M:0Nuka Bull" target="MasonUnderArmor_M:0" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonUnderArmor_M:0Nuka Bull</Data>
+            <Data name="MasonUnderArmor_M:1Nuka Bull" target="MasonUnderArmor_M:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonUnderArmor_M:1Nuka Bull</Data>
+            <Data name="zg_UnderArmor2_M:1Nuka Bull" target="zg_UnderArmor2_M:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MaleBodyNeverNBulge</Data>
+            <Data name="zg_UnderArmor2_M_FURS:1Bulge" target="zg_UnderArmor2_M_FURS:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M_FURS:1Bulge</Data>
+            <Data name="MasonUnderArmor_M:0Bulge" target="MasonUnderArmor_M:0" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MasonUnderArmor_M:0Bulge</Data>
+            <Data name="zg_UnderArmor2_M:1Bulge" target="zg_UnderArmor2_M:1" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\zg_UnderArmor2_M:1Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM DLC NW] Furry Pants &amp; T-Shirt.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

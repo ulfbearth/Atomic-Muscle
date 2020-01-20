@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Pack Stuffed Chest Piece">
+        <DataFolder>[AM DLC NW] Pack Stuffed Chest Piece</DataFolder>
+        <SourceFile>[AM DLC NW] Pack Stuffed Chest Piece.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Armor\Pack</OutputPath>
+        <OutputFile GenWeights="false">DLC04_ZooGang_LightArmor_Torso_M</OutputFile>
+        <Shape target="DLC04_ZooGang_LightArmor_Torso_M:0">DLC04_ZooGang_LightArmor_Torso_M:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="DLC04_ZooGang_LightArmor_Torso_M:0Anus Spread" target="DLC04_ZooGang_LightArmor_Torso_M:0" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\DLC04_ZooGang_LightArmor_Torso_M:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="DLC04_ZooGang_LightArmor_Torso_M:0Nuclear BodyBuilder" target="DLC04_ZooGang_LightArmor_Torso_M:0" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\DLC04_ZooGang_LightArmor_Torso_M:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="DLC04_ZooGang_LightArmor_Torso_M:0Nuka Bull" target="DLC04_ZooGang_LightArmor_Torso_M:0" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\DLC04_ZooGang_LightArmor_Torso_M:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM DLC NW] Pack Stuffed Chest Piece.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

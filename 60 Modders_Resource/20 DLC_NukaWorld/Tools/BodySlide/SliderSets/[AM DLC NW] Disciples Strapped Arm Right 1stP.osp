@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Disciples Strapped Arm Right 1stP">
+        <DataFolder>[AM DLC NW] Disciples Strapped Arm Right 1stP</DataFolder>
+        <SourceFile>[AM DLC NW] Disciples Strapped Arm Right 1stP.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Armor\Disciples</OutputPath>
+        <OutputFile GenWeights="false">DLC04_Armor_Disciples_Light02_ArmRight_M_1stPerson</OutputFile>
+        <Shape target="DLC04_Armor_Disciples_Light02_ArmRight_M:0">DLC04_Armor_Disciples_Light02_ArmRight_M:0</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="DLC04_Armor_Disciples_Light02_ArmRight_M:0Anus Spread" target="DLC04_Armor_Disciples_Light02_ArmRight_M:0" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\DLC04_Armor_Disciples_Light02_ArmRight_M:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="DLC04_Armor_Disciples_Light02_ArmRight_M:0Nuclear BodyBuilder" target="DLC04_Armor_Disciples_Light02_ArmRight_M:0" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\DLC04_Armor_Disciples_Light02_ArmRight_M:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="DLC04_Armor_Disciples_Light02_ArmRight_M:0Nuka Bull" target="DLC04_Armor_Disciples_Light02_ArmRight_M:0" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\DLC04_Armor_Disciples_Light02_ArmRight_M:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\NeverNude+HandsBulge</Data>
+        </Slider>
+        <Slider name="hzap" invert="false" default="0" hidden="true" zap="true">
+            <Data name="NeverNude+Handshzap" target="NeverNude+Hands" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\NeverNude+Handshzap</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM DLC NW] Disciples Strapped Arm Right 1stP.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

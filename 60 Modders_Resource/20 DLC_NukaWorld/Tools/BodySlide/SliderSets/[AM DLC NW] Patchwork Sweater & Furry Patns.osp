@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Patchwork Sweater &amp; Furry Patns">
+        <DataFolder>[AM DLC NW] Patchwork Sweater &amp; Furry Patns</DataFolder>
+        <SourceFile>[AM DLC NW] Patchwork Sweater &amp; Furry Patns.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Armor\Pack</OutputPath>
+        <OutputFile GenWeights="false">Pack_UnderArmor_04_M</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude + Hands">MaleBodyNeverN</Shape>
+        <Shape target="Pack_UnderArmor_04_M:0">Pack_UnderArmor_04_M:0</Shape>
+        <Shape target="Pack_UnderArmor_04_M:1">Pack_UnderArmor_04_M:1</Shape>
+        <Shape target="Pack_UnderArmor_04_M:3">Pack_UnderArmor_04_M:3</Shape>
+        <Shape target="Pack_UnderArmor_04_M_Fur:1">Pack_UnderArmor_04_M_Fur:1</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Pack_UnderArmor_04_M_Fur:1Anus Spread" target="Pack_UnderArmor_04_M_Fur:1" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M_Fur:1Anus Spread</Data>
+            <Data name="Pack_UnderArmor_04_M:0Anus Spread" target="Pack_UnderArmor_04_M:0" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:0Anus Spread</Data>
+            <Data name="Pack_UnderArmor_04_M:1Anus Spread" target="Pack_UnderArmor_04_M:1" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:1Anus Spread</Data>
+            <Data name="Pack_UnderArmor_04_M:3Anus Spread" target="Pack_UnderArmor_04_M:3" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:3Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Pack_UnderArmor_04_M_Fur:1Nuclear BodyBuilder" target="Pack_UnderArmor_04_M_Fur:1" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M_Fur:1Nuclear BodyBuilder</Data>
+            <Data name="Pack_UnderArmor_04_M:0Nuclear BodyBuilder" target="Pack_UnderArmor_04_M:0" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:0Nuclear BodyBuilder</Data>
+            <Data name="Pack_UnderArmor_04_M:1Nuclear BodyBuilder" target="Pack_UnderArmor_04_M:1" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:1Nuclear BodyBuilder</Data>
+            <Data name="Pack_UnderArmor_04_M:3Nuclear BodyBuilder" target="Pack_UnderArmor_04_M:3" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:3Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Pack_UnderArmor_04_M_Fur:1Nuka Bull" target="Pack_UnderArmor_04_M_Fur:1" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M_Fur:1Nuka Bull</Data>
+            <Data name="Pack_UnderArmor_04_M:0Nuka Bull" target="Pack_UnderArmor_04_M:0" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:0Nuka Bull</Data>
+            <Data name="Pack_UnderArmor_04_M:1Nuka Bull" target="Pack_UnderArmor_04_M:1" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:1Nuka Bull</Data>
+            <Data name="Pack_UnderArmor_04_M:3Nuka Bull" target="Pack_UnderArmor_04_M:3" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:3Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\MaleBodyNeverNBulge</Data>
+            <Data name="Pack_UnderArmor_04_M_Fur:1Bulge" target="Pack_UnderArmor_04_M_Fur:1" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M_Fur:1Bulge</Data>
+            <Data name="Pack_UnderArmor_04_M:0Bulge" target="Pack_UnderArmor_04_M:0" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:0Bulge</Data>
+            <Data name="Pack_UnderArmor_04_M:3Bulge" target="Pack_UnderArmor_04_M:3" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\Pack_UnderArmor_04_M:3Bulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM DLC NW] Patchwork Sweater &amp; Furry Patns.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

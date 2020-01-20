@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Torn Shirt &amp; Ragged Pants">
+        <DataFolder>[AM DLC NW] Torn Shirt &amp; Ragged Pants</DataFolder>
+        <SourceFile>[AM DLC NW] Torn Shirt &amp; Ragged Pants.nif</SourceFile>
+        <OutputPath>Meshes\DLC04\Clothes\Disciples</OutputPath>
+        <OutputFile GenWeights="false">DiscipleUnderArmorM_D</OutputFile>
+        <Shape target="BootsD:0">BootsD:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="PantsA:0">PantsA:0</Shape>
+        <Shape target="TopB:0">TopB:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="BootsD:0Anus Spread" target="BootsD:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\BootsD:0Anus Spread</Data>
+            <Data name="TopB:0Anus Spread" target="TopB:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\TopB:0Anus Spread</Data>
+            <Data name="PantsA:0Anus Spread" target="PantsA:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\PantsA:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="BootsD:0Nuclear BodyBuilder" target="BootsD:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\BootsD:0Nuclear BodyBuilder</Data>
+            <Data name="TopB:0Nuclear BodyBuilder" target="TopB:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\TopB:0Nuclear BodyBuilder</Data>
+            <Data name="PantsA:0Nuclear BodyBuilder" target="PantsA:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\PantsA:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="BootsD:0Nuka Bull" target="BootsD:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\BootsD:0Nuka Bull</Data>
+            <Data name="TopB:0Nuka Bull" target="TopB:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\TopB:0Nuka Bull</Data>
+            <Data name="PantsA:0Nuka Bull" target="PantsA:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\PantsA:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\MaleBodyNeverNBulge</Data>
+            <Data name="PantsA:0Bulge" target="PantsA:0" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\PantsA:0Bulge</Data>
+        </Slider>
+        <Slider name="bodyzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbodyzap" target="MaleBodyNeverN" local="true">[AM DLC NW] Torn Shirt &amp; Ragged Pants.osd\MaleBodyNeverNbodyzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
