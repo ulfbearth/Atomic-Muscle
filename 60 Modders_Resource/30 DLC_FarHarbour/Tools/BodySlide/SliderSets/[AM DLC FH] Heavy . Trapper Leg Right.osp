@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC FH] Heavy . Trapper Leg Right">
+        <DataFolder>[AM DLC FH] Heavy . Trapper Leg Right</DataFolder>
+        <SourceFile>[AM DLC FH] Heavy . Trapper Leg Right.nif</SourceFile>
+        <OutputPath>Meshes\DLC03\Armor\TrapperA</OutputPath>
+        <OutputFile GenWeights="false">MOutift_RightLeg</OutputFile>
+        <Shape target="MOutift_RightLeg:0">MOutift_RightLeg:0</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="MOutift_RightLeg:0Anus Spread" target="MOutift_RightLeg:0" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\MOutift_RightLeg:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="MOutift_RightLeg:0Nuclear BodyBuilder" target="MOutift_RightLeg:0" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\MOutift_RightLeg:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="MOutift_RightLeg:0Nuka Bull" target="MOutift_RightLeg:0" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\MOutift_RightLeg:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\NeverNude+HandsBulge</Data>
+            <Data name="MOutift_RightLeg:0Bulge" target="MOutift_RightLeg:0" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\MOutift_RightLeg:0Bulge</Data>
+        </Slider>
+        <Slider name="hzap" invert="false" default="0" hidden="true" zap="true">
+            <Data name="NeverNude+Handshzap" target="NeverNude+Hands" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\NeverNude+Handshzap</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM DLC FH] Heavy . Trapper Leg Right.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

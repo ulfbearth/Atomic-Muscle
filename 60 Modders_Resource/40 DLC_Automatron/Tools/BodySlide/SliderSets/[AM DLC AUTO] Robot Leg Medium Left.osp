@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC AUTO] Robot Leg Medium Left">
+        <DataFolder>[AM DLC AUTO] Robot Leg Medium Left</DataFolder>
+        <SourceFile>[AM DLC AUTO] Robot Leg Medium Left.nif</SourceFile>
+        <OutputPath>Meshes\DLC01\Armor\RoboArmor</OutputPath>
+        <OutputFile GenWeights="false">RoboArmorLegLMedium</OutputFile>
+        <Shape target="LegL:0">LegL:0</Shape>
+        <Shape target="LegL_Heavy_Pistons:0">LegL_Heavy_Pistons:0</Shape>
+        <Shape target="LegL_backfaceShins:0">LegL_backfaceShins:0</Shape>
+        <Shape target="LegL_backfaces:0">LegL_backfaces:0</Shape>
+        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="LegL_Heavy_Pistons:0Anus Spread" target="LegL_Heavy_Pistons:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_Heavy_Pistons:0Anus Spread</Data>
+            <Data name="LegL_backfaces:0Anus Spread" target="LegL_backfaces:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_backfaces:0Anus Spread</Data>
+            <Data name="LegL:0Anus Spread" target="LegL:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL:0Anus Spread</Data>
+            <Data name="LegL_backfaceShins:0Anus Spread" target="LegL_backfaceShins:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_backfaceShins:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="LegL_Heavy_Pistons:0Nuclear BodyBuilder" target="LegL_Heavy_Pistons:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_Heavy_Pistons:0Nuclear BodyBuilder</Data>
+            <Data name="LegL_backfaces:0Nuclear BodyBuilder" target="LegL_backfaces:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_backfaces:0Nuclear BodyBuilder</Data>
+            <Data name="LegL:0Nuclear BodyBuilder" target="LegL:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL:0Nuclear BodyBuilder</Data>
+            <Data name="LegL_backfaceShins:0Nuclear BodyBuilder" target="LegL_backfaceShins:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_backfaceShins:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="LegL_Heavy_Pistons:0Nuka Bull" target="LegL_Heavy_Pistons:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_Heavy_Pistons:0Nuka Bull</Data>
+            <Data name="LegL_backfaces:0Nuka Bull" target="LegL_backfaces:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_backfaces:0Nuka Bull</Data>
+            <Data name="LegL:0Nuka Bull" target="LegL:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL:0Nuka Bull</Data>
+            <Data name="LegL_backfaceShins:0Nuka Bull" target="LegL_backfaceShins:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL_backfaceShins:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\NeverNude+HandsBulge</Data>
+            <Data name="LegL:0Bulge" target="LegL:0" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\LegL:0Bulge</Data>
+        </Slider>
+        <Slider name="hzap" invert="false" default="0" hidden="true" zap="true">
+            <Data name="NeverNude+Handshzap" target="NeverNude+Hands" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\NeverNude+Handshzap</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="NeverNude+Handsbzap" target="NeverNude+Hands" local="true">[AM DLC AUTO] Robot Leg Medium Left.osd\NeverNude+Handsbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

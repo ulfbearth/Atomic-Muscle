@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC AUTO] Robot Chest Piece Light">
+        <DataFolder>[AM DLC AUTO] Robot Chest Piece Light</DataFolder>
+        <SourceFile>[AM DLC AUTO] Robot Chest Piece Light.nif</SourceFile>
+        <OutputPath>Meshes\DLC01\Armor\RoboArmor</OutputPath>
+        <OutputFile GenWeights="false">RoboArmorTorsoLight</OutputFile>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="Torso:0">Torso:0</Shape>
+        <Shape target="Torso_backfaces:0">Torso_backfaces:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Torso_backfaces:0Anus Spread" target="Torso_backfaces:0" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\Torso_backfaces:0Anus Spread</Data>
+            <Data name="Torso:0Anus Spread" target="Torso:0" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\Torso:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Torso_backfaces:0Nuclear BodyBuilder" target="Torso_backfaces:0" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\Torso_backfaces:0Nuclear BodyBuilder</Data>
+            <Data name="Torso:0Nuclear BodyBuilder" target="Torso:0" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\Torso:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Torso_backfaces:0Nuka Bull" target="Torso_backfaces:0" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\Torso_backfaces:0Nuka Bull</Data>
+            <Data name="Torso:0Nuka Bull" target="Torso:0" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\Torso:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM DLC AUTO] Robot Chest Piece Light.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

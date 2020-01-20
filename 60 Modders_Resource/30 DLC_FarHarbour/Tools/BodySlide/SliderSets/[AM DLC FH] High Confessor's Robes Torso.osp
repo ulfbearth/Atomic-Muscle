@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC FH] High Confessor&apos;s Robes Torso">
+        <DataFolder>[AM DLC FH] High Confessor's Robes Torso</DataFolder>
+        <SourceFile>[AM DLC FH] High Confessor's Robes Torso.nif</SourceFile>
+        <OutputPath>Meshes\DLC03\Clothes\ChildrenofAtom</OutputPath>
+        <OutputFile GenWeights="false">Moutfit</OutputFile>
+        <Shape target="MOutift:0">MOutift:0</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Shape target="Shoulder_Wrap:0">Shoulder_Wrap:0</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MaleBodyNeverNAnus Spread</Data>
+            <Data name="Shoulder_Wrap:0Anus Spread" target="Shoulder_Wrap:0" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\Shoulder_Wrap:0Anus Spread</Data>
+            <Data name="MOutift:0Anus Spread" target="MOutift:0" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MOutift:0Anus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="Shoulder_Wrap:0Nuclear BodyBuilder" target="Shoulder_Wrap:0" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\Shoulder_Wrap:0Nuclear BodyBuilder</Data>
+            <Data name="MOutift:0Nuclear BodyBuilder" target="MOutift:0" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MOutift:0Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="Shoulder_Wrap:0Nuka Bull" target="Shoulder_Wrap:0" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\Shoulder_Wrap:0Nuka Bull</Data>
+            <Data name="MOutift:0Nuka Bull" target="MOutift:0" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MOutift:0Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM DLC FH] High Confessor's Robes Torso.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
