@@ -18,14 +18,5 @@
         <Slider name="Bulge" invert="false" default="0">
             <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsBulge</Data>
         </Slider>
-        <Slider name="Erection" invert="false" default="0">
-            <Data name="NeverNude+HandsErection" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsErection</Data>
-        </Slider>
-        <Slider name="Erection Up" invert="false" default="0">
-            <Data name="NeverNude+HandsErection Up" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsErection Up</Data>
-        </Slider>
-        <Slider name="Erection Down" invert="false" default="0">
-            <Data name="NeverNude+HandsErection Down" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsErection Down</Data>
-        </Slider>
     </SliderSet>
 </SliderSetInfo>
