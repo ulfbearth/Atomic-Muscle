@@ -1,0 +1,26 @@
+<!-- Reference templates are shortcuts to loading a slider set as a reference in Outfit Studio -->
+<RefTemplates>
+    <Template sourcefile="SliderSets\Atomic Muscle NeverNude.osp" set="Atomic Muscle NeverNude" shape="MaleBodyNeverN">Atomic Muscle Nevernude</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle NeverNude + Hands.osp" set="Atomic Muscle NeverNude + Hands" shape="NeverNude+Hands">Atomic Muscle NeverNude + Hands</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle - NudeSuit (Uncut).osp" set="Atomic Muscle - NudeSuit (Uncut)" shape="MaleBody">Atomic Muscle - NudeSuit (Uncut)</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle - NudeSuit (Cut).osp" set="Atomic Muscle - NudeSuit (Cut)" shape="MaleBody">Atomic Muscle - NudeSuit (Cut)</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle - Hands.osp" set="Atomic Muscle - Hands" shape="BaseMaleHands3rd">Atomic Muscle - Hands</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle - Equipable Penis (Uncut).osp" set="Atomic Muscle - Equipable Penis (Uncut)" shape="Equipable_Penis_Cut_Flaccid">Atomic Muscle - Equipable Penis (Uncut)</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle - Equipable Penis (Cut).osp" set="Atomic Muscle - Equipable Penis (Cut)" shape="Equipable_Penis_Cut_Flaccid">Atomic Muscle - Equipable Penis (Cut)</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle - 1st Person Hands.osp" set="Atomic Muscle - 1st Person Hands" shape="BaseMaleHands3rd">Atomic Muscle - 1st Person Hands</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle - 1st Person Body.osp" set="Atomic Muscle - 1st Person Body" shape="MaleBody">Atomic Muscle - 1st Person Body</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle (Uncut).osp" set="Atomic Muscle (Uncut)" shape="MaleBody">Atomic Muscle (Uncut)</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle (Uncut) + Hands.osp" set="Atomic Muscle (Uncut) + Hands" shape="Uncut_+_Hands">Atomic Muscle (Uncut) + Hands</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle (Cut).osp" set="Atomic Muscle (Cut)" shape="MaleBody">Atomic Muscle (Cut)</Template>
+    <Template sourcefile="SliderSets\Atomic Muscle (Cut) + Hands.osp" set="Atomic Muscle (Cut) + Hands" shape="cut_+_hands">Atomic Muscle (Cut) + Hands</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="VanillaToCBBE" shape="CBBE">Convert: Vanilla To CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="CBBEToVanilla" shape="CBBE">Convert: CBBE To Vanilla</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="SkyrimCBBEToFO4CBBE" shape="CBBE">Convert: Skyrim CBBE To FO4 CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="FO4CBBEToSkyrimCBBE" shape="CBBE">Convert: FO4 CBBE To Skyrim CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="JaneBodyToCBBE" shape="JaneBodHDShapeData">Convert: Jane Bod To CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="CBBEToJaneBody" shape="JaneBody_CBBE">Convert: CBBE To Jane Bod</Template>
+    <Template sourcefile="ConversionSets\MaletoCBBE.osp" set="MaletoCBBE" shape="CBBE">Convert: Male to CBBE</Template>
+    <Template sourcefile="ConversionSets\CBBEtoMale.osp" set="CBBEtoMale" shape="CBBE">Convert: CBBE to Male</Template>
+    <Template sourcefile="ConversionSets\VanillaFemaletoMale.osp" set="VanillaFemaletoMale" shape="CBBE">Convert: Vanilla Female to Male</Template>
+    <Template sourcefile="ConversionSets\MaletoVanillaFemale.osp" set="MaletoVanillaFemale" shape="CBBE">Convert: Male to Vanilla Female</Template>
+</RefTemplates>
