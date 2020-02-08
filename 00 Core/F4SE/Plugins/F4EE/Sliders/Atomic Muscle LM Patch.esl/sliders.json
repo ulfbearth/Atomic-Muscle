@@ -24,6 +24,14 @@
 		"gender": 0
 	},
    {
+		"name": "2gPenis Adjust",
+		"morph": "Penis Adjust",
+		"minimum": 0.0,
+		"maximum": 1.0,
+		"interval": 0.01,
+		"gender": 0
+	},
+   {
 		"name": "2gErection Up",
 		"morph": "Erection Up",
 		"minimum": 0.0,

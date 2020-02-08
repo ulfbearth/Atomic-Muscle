@@ -5,30 +5,33 @@
         <SourceFile>Atomic Muscle - NudeSuit (Uncut).nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">malebodyNSU</OutputFile>
-        <Shape target="MaleBody" DataFolder="Atomic Muscle Test III">MaleBody</Shape>
+        <Shape target="MaleBodyUncut" DataFolder="Atomic Muscle - NudeSuit (Uncut)">MaleBodyUncut</Shape>
         <Slider name="Shaft Width" invert="false" default="0">
-            <Data name="MaleBodyShaft Width" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyShaft Width</Data>
+            <Data name="MaleBodyUncutShaft Width" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutShaft Width</Data>
         </Slider>
         <Slider name="Erection" invert="false" default="0">
-            <Data name="MaleBodyErection" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyErection</Data>
+            <Data name="MaleBodyUncutErection" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutErection</Data>
         </Slider>
         <Slider name="Erection Up" invert="false" default="0">
-            <Data name="MaleBodyErection Up" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyErection Up</Data>
+            <Data name="MaleBodyUncutErection Up" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutErection Up</Data>
         </Slider>
         <Slider name="Erection Down" invert="false" default="0">
-            <Data name="MaleBodyErection Down" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyErection Down</Data>
+            <Data name="MaleBodyUncutErection Down" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutErection Down</Data>
         </Slider>
         <Slider name="Sack Size" invert="false" default="0">
-            <Data name="MaleBodySack Size" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodySack Size</Data>
+            <Data name="MaleBodyUncutSack Size" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutSack Size</Data>
         </Slider>
         <Slider name="Anus Spread" invert="false" default="0">
-            <Data name="MaleBodyAnus Spread" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyAnus Spread</Data>
+            <Data name="MaleBodyUncutAnus Spread" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutAnus Spread</Data>
         </Slider>
         <Slider name="Nuclear BodyBuilder" invert="false" default="0">
-            <Data name="MaleBodyNuclear BodyBuilder" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyNuclear BodyBuilder</Data>
+            <Data name="MaleBodyUncutNuclear BodyBuilder" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutNuclear BodyBuilder</Data>
         </Slider>
         <Slider name="Nuka Bull" invert="false" default="0">
-            <Data name="MaleBodyNuka Bull" target="MaleBody" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyNuka Bull</Data>
+            <Data name="MaleBodyUncutNuka Bull" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutNuka Bull</Data>
+        </Slider>
+        <Slider name="Penis Adjust" invert="false" default="0">
+            <Data name="MaleBodyUncutPenis Adjust" target="MaleBodyUncut" local="true">Atomic Muscle - NudeSuit (Uncut).osd\MaleBodyUncutPenis Adjust</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>

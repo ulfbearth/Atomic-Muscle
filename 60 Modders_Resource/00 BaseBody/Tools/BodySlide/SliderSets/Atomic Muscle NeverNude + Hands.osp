@@ -5,18 +5,18 @@
         <SourceFile>Atomic Muscle NeverNude + Hands.nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">MalebodyNN</OutputFile>
-        <Shape target="NeverNude+Hands" DataFolder="Atomic Muscle NeverNude + Hands">NeverNude+Hands</Shape>
+        <Shape target="MaleBodyNeverN+Hands">MaleBodyNeverN+Hands</Shape>
         <Slider name="Anus Spread" invert="false" default="0">
-            <Data name="NeverNude+HandsAnus Spread" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsAnus Spread</Data>
+            <Data name="MaleBodyNeverN+HandsAnus Spread" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsAnus Spread</Data>
         </Slider>
         <Slider name="Nuclear BodyBuilder" invert="false" default="0">
-            <Data name="NeverNude+HandsNuclear BodyBuilder" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsNuclear BodyBuilder</Data>
+            <Data name="MaleBodyNeverN+HandsNuclear BodyBuilder" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsNuclear BodyBuilder</Data>
         </Slider>
         <Slider name="Nuka Bull" invert="false" default="0">
-            <Data name="NeverNude+HandsNuka Bull" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsNuka Bull</Data>
+            <Data name="MaleBodyNeverN+HandsNuka Bull" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsNuka Bull</Data>
         </Slider>
         <Slider name="Bulge" invert="false" default="0">
-            <Data name="NeverNude+HandsBulge" target="NeverNude+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\NeverNude+HandsBulge</Data>
+            <Data name="MaleBodyNeverN+HandsBulge" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsBulge</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>

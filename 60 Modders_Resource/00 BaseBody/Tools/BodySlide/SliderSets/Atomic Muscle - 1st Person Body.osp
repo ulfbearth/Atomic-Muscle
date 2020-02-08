@@ -5,12 +5,12 @@
         <SourceFile>Atomic Muscle - 1st Person Body.nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">1stPersonMaleBody</OutputFile>
-        <Shape target="MaleBody" DataFolder="Atomic Muscle Test III">MaleBody</Shape>
+        <Shape target="MaleBody1stP" DataFolder="Atomic Muscle (Cut)">MaleBody1stP</Shape>
         <Slider name="Nuclear BodyBuilder" invert="false" default="0">
-            <Data name="MaleBodyNuclear BodyBuilder" target="MaleBody" local="true">Atomic Muscle - 1st Person Body.osd\MaleBodyNuclear BodyBuilder</Data>
+            <Data name="MaleBody1stPNuclear BodyBuilder" target="MaleBody1stP" local="true">Atomic Muscle - 1st Person Body.osd\MaleBody1stPNuclear BodyBuilder</Data>
         </Slider>
         <Slider name="Nuka Bull" invert="false" default="0">
-            <Data name="MaleBodyNuka Bull" target="MaleBody" local="true">Atomic Muscle - 1st Person Body.osd\MaleBodyNuka Bull</Data>
+            <Data name="MaleBody1stPNuka Bull" target="MaleBody1stP" local="true">Atomic Muscle - 1st Person Body.osd\MaleBody1stPNuka Bull</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>
