@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle NeverNude.nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">MalebodyNN</OutputFile>
-        <Shape target="MaleBodyNeverN">MaleBodyNeverN</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
         <Slider name="Anus Spread" invert="false" default="0">
             <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNAnus Spread</Data>
         </Slider>
