@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="[AM DLC NW] Yao-Guai Finger Necklace">
+        <DataFolder>[AM DLC NW] Yao-Guai Finger Necklace</DataFolder>
+        <SourceFile>[AM DLC NW] Yao-Guai Finger Necklace.nif</SourceFile>
+        <OutputPath>meshes\DLC04\Armor\Pack</OutputPath>
+        <OutputFile GenWeights="false">DLC04_ZooGang_UltraLightChest_04_M</OutputFile>
+        <Shape target="DLC04_ZooGang_UltraLightChest_04_M:0">DLC04_ZooGang_UltraLightChest_04_M:0</Shape>
+        <Shape target="DLC04_ZooGang_UltraLightChest_04_M:1">DLC04_ZooGang_UltraLightChest_04_M:1</Shape>
+        <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN">Atomic Muscle NeverNude.osd\MaleBodyNeverNAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuclear BodyBuilder" target="MaleBodyNeverN">Atomic Muscle NeverNude.osd\MaleBodyNeverNNuclear BodyBuilder</Data>
+            <Data name="DLC04_ZooGang_UltraLightChest_04_M:0Nuclear BodyBuilder" target="DLC04_ZooGang_UltraLightChest_04_M:0" local="true">[AM DLC NW] Yao-Guai Finger Necklace.osd\DLC04_ZooGang_UltraLightChest_04_M:0Nuclear BodyBuilder</Data>
+            <Data name="DLC04_ZooGang_UltraLightChest_04_M:1Nuclear BodyBuilder" target="DLC04_ZooGang_UltraLightChest_04_M:1" local="true">[AM DLC NW] Yao-Guai Finger Necklace.osd\DLC04_ZooGang_UltraLightChest_04_M:1Nuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN">Atomic Muscle NeverNude.osd\MaleBodyNeverNNuka Bull</Data>
+            <Data name="DLC04_ZooGang_UltraLightChest_04_M:0Nuka Bull" target="DLC04_ZooGang_UltraLightChest_04_M:0" local="true">[AM DLC NW] Yao-Guai Finger Necklace.osd\DLC04_ZooGang_UltraLightChest_04_M:0Nuka Bull</Data>
+            <Data name="DLC04_ZooGang_UltraLightChest_04_M:1Nuka Bull" target="DLC04_ZooGang_UltraLightChest_04_M:1" local="true">[AM DLC NW] Yao-Guai Finger Necklace.osd\DLC04_ZooGang_UltraLightChest_04_M:1Nuka Bull</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN">Atomic Muscle NeverNude.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
+        <Slider name="bzap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="MaleBodyNeverNbzap" target="MaleBodyNeverN" local="true">[AM DLC NW] Yao-Guai Finger Necklace.osd\MaleBodyNeverNbzap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
