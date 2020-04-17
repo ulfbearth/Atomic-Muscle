@@ -3,7 +3,7 @@
     <SliderSet name="[AM Vanilla] Helmeted Cage Armor 1stP">
         <DataFolder>[AM Vanilla] Helmeted Cage Armor 1stP</DataFolder>
         <SourceFile>[AM Vanilla] Helmeted Cage Armor 1stP.nif</SourceFile>
-        <OutputPath>Meshes\Armor\RaiderHeavy\MArmorHeavy</OutputPath>
+        <OutputPath>Meshes\Armor\RaiderHeavy</OutputPath>
         <OutputFile GenWeights="false">MArmorHeavy1stPerson</OutputFile>
         <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
         <Shape target="Raider_Heavy_Body_Cloth:0">Raider_Heavy_Body_Cloth:0</Shape>
