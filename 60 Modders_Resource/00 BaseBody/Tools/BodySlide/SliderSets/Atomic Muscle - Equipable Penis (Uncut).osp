@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle - Equipable Penis (Uncut).nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">EquipablePenisU</OutputFile>
-        <Shape target="Equipable_Penis_Cut_Flaccid" DataFolder="Atomic Muscle - Equipable Penis (Cut)">Equipable_Penis_Cut_Flaccid</Shape>
+        <Shape target="Equipable_Penis_Cut_Flaccid" DataFolder="Atomic Muscle - Equipable Penis (Uncut)">Equipable_Penis_Cut_Flaccid</Shape>
         <Slider name="Shaft Width" invert="false" default="0">
             <Data name="Equipable_Penis_Cut_FlaccidShaft Width" target="Equipable_Penis_Cut_Flaccid" local="true">Atomic Muscle - Equipable Penis (Uncut).osd\Equipable_Penis_Cut_FlaccidShaft Width</Data>
         </Slider>
