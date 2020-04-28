@@ -6,18 +6,6 @@
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">MalebodyNN</OutputFile>
         <Shape target="MaleBodyNeverN" DataFolder="Atomic Muscle NeverNude">MaleBodyNeverN</Shape>
-        <Slider name="Erection" invert="false" default="0">
-            <Data name="MaleBodyNeverNErection" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNErection</Data>
-        </Slider>
-        <Slider name="Erection Up" invert="false" default="0">
-            <Data name="MaleBodyNeverNErection Up" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNErection Up</Data>
-        </Slider>
-        <Slider name="Erection Down" invert="false" default="0">
-            <Data name="MaleBodyNeverNErection Down" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNErection Down</Data>
-        </Slider>
-        <Slider name="Sack Size" invert="false" default="0">
-            <Data name="MaleBodyNeverNSack Size" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNSack Size</Data>
-        </Slider>
         <Slider name="Anus Spread" invert="false" default="0">
             <Data name="MaleBodyNeverNAnus Spread" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNAnus Spread</Data>
         </Slider>
@@ -26,9 +14,6 @@
         </Slider>
         <Slider name="Nuka Bull" invert="false" default="0">
             <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNNuka Bull</Data>
-        </Slider>
-        <Slider name="Penis Adjust" invert="false" default="0">
-            <Data name="MaleBodyNeverNPenis Adjust" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNPenis Adjust</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>
