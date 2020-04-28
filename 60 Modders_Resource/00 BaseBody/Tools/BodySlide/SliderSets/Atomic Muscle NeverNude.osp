@@ -15,5 +15,8 @@
         <Slider name="Nuka Bull" invert="false" default="0">
             <Data name="MaleBodyNeverNNuka Bull" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNNuka Bull</Data>
         </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNBulge</Data>
+        </Slider>
     </SliderSet>
 </SliderSetInfo>
