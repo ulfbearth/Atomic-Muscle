@@ -33,5 +33,8 @@
         <Slider name="Penis Adjust" invert="false" default="0">
             <Data name="MaleBodyCutPenis Adjust" target="MaleBodyCut">Atomic Muscle (Cut).osd\MaleBodyCutPenis Adjust</Data>
         </Slider>
+        <Slider name="Anus Smooth" invert="false" default="100" hidden="true">
+            <Data name="MaleBodyCutAnus Smooth" target="MaleBodyCut">Atomic Muscle (Cut).osd\MaleBodyCutAnus Smooth</Data>
+        </Slider>
     </SliderSet>
 </SliderSetInfo>

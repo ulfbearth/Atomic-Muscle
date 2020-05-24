@@ -33,5 +33,8 @@
         <Slider name="Penis Adjust" invert="false" default="0">
             <Data name="MaleBodyUncut+HandsPenis Adjust" target="MaleBodyUncut+Hands" local="true">Atomic Muscle (Uncut) + Hands.osd\MaleBodyUncut+HandsPenis Adjust</Data>
         </Slider>
+        <Slider name="Anus Smooth" invert="false" default="100" hidden="true">
+            <Data name="MaleBodyUncut+HandsAnus Smooth" target="MaleBodyUncut+Hands" local="true">Atomic Muscle (Uncut) + Hands.osd\MaleBodyUncut+HandsAnus Smooth</Data>
+        </Slider>
     </SliderSet>
 </SliderSetInfo>

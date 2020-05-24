@@ -18,5 +18,8 @@
         <Slider name="Bulge" invert="false" default="0">
             <Data name="MaleBodyNeverNBulge" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNBulge</Data>
         </Slider>
+        <Slider name="Anus Smooth" invert="false" default="100" hidden="true">
+            <Data name="MaleBodyNeverNAnus Smooth" target="MaleBodyNeverN" local="true">Atomic Muscle NeverNude.osd\MaleBodyNeverNAnus Smooth</Data>
+        </Slider>
     </SliderSet>
 </SliderSetInfo>
