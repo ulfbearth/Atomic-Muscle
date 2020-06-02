@@ -15,11 +15,11 @@
         <Slider name="Nuka Bull" invert="false" default="0">
             <Data name="MaleBodyNeverN+HandsNuka Bull" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsNuka Bull</Data>
         </Slider>
-        <Slider name="Bulge" invert="false" default="0">
-            <Data name="MaleBodyNeverN+HandsBulge" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsBulge</Data>
-        </Slider>
         <Slider name="Anus Smooth" invert="false" default="100" hidden="true">
             <Data name="MaleBodyNeverN+HandsAnus Smooth" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsAnus Smooth</Data>
+        </Slider>
+        <Slider name="Bulge" invert="false" default="0">
+            <Data name="MaleBodyNeverN+HandsBulge" target="MaleBodyNeverN+Hands" local="true">Atomic Muscle NeverNude + Hands.osd\MaleBodyNeverN+HandsBulge</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>

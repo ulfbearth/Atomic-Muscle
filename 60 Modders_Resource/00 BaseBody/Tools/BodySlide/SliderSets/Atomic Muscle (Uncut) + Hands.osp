@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle (Uncut) + Hands.nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">test</OutputFile>
-        <Shape target="MaleBodyUncut+Hands" DataFolder="Atomic Muscle (Uncut) + Hands">MaleBodyUncut+Hands</Shape>
+        <Shape target="MaleBodyUncut+Hands">MaleBodyUncut+Hands</Shape>
         <Slider name="Shaft Width" invert="false" default="0">
             <Data name="MaleBodyUncut+HandsShaft Width" target="MaleBodyUncut+Hands" local="true">Atomic Muscle (Uncut) + Hands.osd\MaleBodyUncut+HandsShaft Width</Data>
         </Slider>
