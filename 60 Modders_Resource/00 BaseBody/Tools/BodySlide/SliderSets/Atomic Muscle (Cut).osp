@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle (Cut).nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">malebody</OutputFile>
-        <Shape target="MaleBodyCut">MaleBodyCut</Shape>
+        <Shape target="MaleBodyCut" DataFolder="Atomic Muscle (Cut)">MaleBodyCut</Shape>
         <Slider name="Shaft Width" invert="false" default="0">
             <Data name="MaleBodyCutShaft Width" target="MaleBodyCut" local="true">Atomic Muscle (Cut).osd\MaleBodyCutShaft Width</Data>
         </Slider>
