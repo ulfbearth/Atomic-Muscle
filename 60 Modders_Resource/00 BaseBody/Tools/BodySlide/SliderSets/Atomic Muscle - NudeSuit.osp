@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Atomic Muscle - NudeSuit">
+        <DataFolder>Atomic Muscle - NudeSuit</DataFolder>
+        <SourceFile>Atomic Muscle - NudeSuit.nif</SourceFile>
+        <OutputPath>meshes\actors\character\characterassets</OutputPath>
+        <OutputFile GenWeights="false">malebodyNSC</OutputFile>
+        <Shape target="MaleBody" DataFolder="Atomic Muscle (Cut)">MaleBody</Shape>
+        <Slider name="Shaft Width" invert="false" default="0">
+            <Data name="MaleBodyShaft Width" target="MaleBody">Atomic Muscle.osd\MaleBodyShaft Width</Data>
+        </Slider>
+        <Slider name="Erection" invert="false" default="0">
+            <Data name="MaleBodyErection" target="MaleBody">Atomic Muscle.osd\MaleBodyErection</Data>
+        </Slider>
+        <Slider name="Erection Up" invert="false" default="0">
+            <Data name="MaleBodyErection Up" target="MaleBody">Atomic Muscle.osd\MaleBodyErection Up</Data>
+        </Slider>
+        <Slider name="Erection Down" invert="false" default="0">
+            <Data name="MaleBodyErection Down" target="MaleBody">Atomic Muscle.osd\MaleBodyErection Down</Data>
+        </Slider>
+        <Slider name="Sack Size" invert="false" default="0">
+            <Data name="MaleBodySack Size" target="MaleBody">Atomic Muscle.osd\MaleBodySack Size</Data>
+        </Slider>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBodyAnus Spread" target="MaleBody">Atomic Muscle.osd\MaleBodyAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBodyNuclear BodyBuilder" target="MaleBody">Atomic Muscle.osd\MaleBodyNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBodyNuka Bull" target="MaleBody">Atomic Muscle.osd\MaleBodyNuka Bull</Data>
+        </Slider>
+        <Slider name="Penis Adjust" invert="false" default="0">
+            <Data name="MaleBodyPenis Adjust" target="MaleBody">Atomic Muscle.osd\MaleBodyPenis Adjust</Data>
+        </Slider>
+        <Slider name="Anus Smooth" invert="false" default="100" hidden="true">
+            <Data name="MaleBodyAnus Smooth" target="MaleBody">Atomic Muscle.osd\MaleBodyAnus Smooth</Data>
+        </Slider>
+        <Slider name="Foreskin" invert="false" default="0">
+            <Data name="MaleBodyForeskin" target="MaleBody">Atomic Muscle.osd\MaleBodyForeskin</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

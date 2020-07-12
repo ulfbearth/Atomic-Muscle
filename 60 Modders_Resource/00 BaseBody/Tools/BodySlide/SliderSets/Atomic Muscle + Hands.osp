@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Atomic Muscle + Hands">
+        <DataFolder>Atomic Muscle + Hands</DataFolder>
+        <SourceFile>Atomic Muscle + Hands.nif</SourceFile>
+        <OutputPath>meshes\actors\character\characterassets</OutputPath>
+        <OutputFile GenWeights="false">test</OutputFile>
+        <Shape target="MaleBody+Hands" DataFolder="Atomic Muscle (Cut) + Hands">MaleBody+Hands</Shape>
+        <Slider name="Shaft Width" invert="false" default="0">
+            <Data name="MaleBody+HandsShaft Width" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsShaft Width</Data>
+        </Slider>
+        <Slider name="Erection" invert="false" default="0">
+            <Data name="MaleBody+HandsErection" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsErection</Data>
+        </Slider>
+        <Slider name="Erection Up" invert="false" default="0">
+            <Data name="MaleBody+HandsErection Up" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsErection Up</Data>
+        </Slider>
+        <Slider name="Erection Down" invert="false" default="0">
+            <Data name="MaleBody+HandsErection Down" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsErection Down</Data>
+        </Slider>
+        <Slider name="Sack Size" invert="false" default="0">
+            <Data name="MaleBody+HandsSack Size" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsSack Size</Data>
+        </Slider>
+        <Slider name="Anus Spread" invert="false" default="0">
+            <Data name="MaleBody+HandsAnus Spread" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsAnus Spread</Data>
+        </Slider>
+        <Slider name="Nuclear BodyBuilder" invert="false" default="0">
+            <Data name="MaleBody+HandsNuclear BodyBuilder" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsNuclear BodyBuilder</Data>
+        </Slider>
+        <Slider name="Nuka Bull" invert="false" default="0">
+            <Data name="MaleBody+HandsNuka Bull" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsNuka Bull</Data>
+        </Slider>
+        <Slider name="Penis Adjust" invert="false" default="0">
+            <Data name="MaleBody+HandsPenis Adjust" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsPenis Adjust</Data>
+        </Slider>
+        <Slider name="Anus Smooth" invert="false" default="100" hidden="true">
+            <Data name="MaleBody+HandsAnus Smooth" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsAnus Smooth</Data>
+        </Slider>
+        <Slider name="Foreskin" invert="false" default="0">
+            <Data name="MaleBody+HandsForeskin" target="MaleBody+Hands" local="true">Atomic Muscle + Hands.osd\MaleBody+HandsForeskin</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
