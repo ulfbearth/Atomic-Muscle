@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle - Equipable Penis.nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">EquipablePenisC</OutputFile>
-        <Shape target="EQ_Penis" DataFolder="Atomic Muscle - Equipable Penis (Cut)">EQ_Penis</Shape>
+        <Shape target="EQ_Penis" DataFolder="Atomic Muscle - Equipable Penis">EQ_Penis</Shape>
         <Slider name="Shaft Width" invert="false" default="0">
             <Data name="EQ_PenisShaft Width" target="EQ_Penis" local="true">Atomic Muscle - Equipable Penis.osd\EQ_PenisShaft Width</Data>
         </Slider>

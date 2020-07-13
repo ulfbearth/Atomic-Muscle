@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle - NudeSuit.nif</SourceFile>
         <OutputPath>meshes\actors\character\characterassets</OutputPath>
         <OutputFile GenWeights="false">malebodyNSC</OutputFile>
-        <Shape target="MaleBody" DataFolder="Atomic Muscle (Cut)">MaleBody</Shape>
+        <Shape target="MaleBody" DataFolder="Atomic Muscle">MaleBody</Shape>
         <Slider name="Shaft Width" invert="false" default="0">
             <Data name="MaleBodyShaft Width" target="MaleBody">Atomic Muscle.osd\MaleBodyShaft Width</Data>
         </Slider>
