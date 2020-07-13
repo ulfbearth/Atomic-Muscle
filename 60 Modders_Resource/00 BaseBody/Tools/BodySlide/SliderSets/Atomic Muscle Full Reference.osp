@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle Full Reference.nif</SourceFile>
         <OutputPath>meshes\armor\New Outfit</OutputPath>
         <OutputFile GenWeights="false">New Outfit</OutputFile>
-        <Shape target="MaleBodyFull" DataFolder="Atomic Muscle Full Reference">MaleBodyFull</Shape>
+        <Shape target="MaleBodyFull">MaleBodyFull</Shape>
         <Slider name="Shaft Width" invert="false" default="0">
             <Data name="MaleBodyFullShaft Width" target="MaleBodyFull" local="true">Atomic Muscle Full Reference.osd\MaleBodyFullShaft Width</Data>
         </Slider>

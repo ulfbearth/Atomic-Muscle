@@ -5,7 +5,7 @@
         <SourceFile>Atomic Muscle NeverNude Full Reference.nif</SourceFile>
         <OutputPath>meshes\armor\New Outfit</OutputPath>
         <OutputFile GenWeights="false">New Outfit</OutputFile>
-        <Shape target="MaleBodyFullNeverN" DataFolder="Atomic Muscle NeverNude Full Reference">MaleBodyFullNeverN</Shape>
+        <Shape target="MaleBodyFullNeverN">MaleBodyFullNeverN</Shape>
         <Slider name="Anus Spread" invert="false" default="0">
             <Data name="MaleBodyFullNeverNAnus Spread" target="MaleBodyFullNeverN" local="true">Atomic Muscle NeverNude Full Reference.osd\MaleBodyFullNeverNAnus Spread</Data>
         </Slider>
