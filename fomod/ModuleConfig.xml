@@ -516,22 +516,22 @@ Installs a Meta.iNi file for Mod Organizer to allow versioning support. &#13;&#1
 	</installSteps>
 	<conditionalFileInstalls>
 		<patterns>
-			<pattern> <!--10 Alt CBP Reset - Fade-to-Black, 2-->
-				<dependencies>
-					<flagDependency flag="CBP" value="1"/>
-				</dependencies>
-				<files>
-					<folder source="30 Alt CBP Reset - Ulfberth" destination="" priority="2"/>
-				</files>
-			</pattern>
 			<pattern> <!--10 Alt CBP Reset - Ulfberth, 2-->
-				<dependencies>
-					<flagDependency flag="CBP" value="2"/>
-				</dependencies>
-				<files>
-					<folder source="10 Alt CBP Reset - Ulfberth" destination="" priority="2"/>
-				</files>
-			</pattern>
+                <dependencies>
+                    <flagDependency flag="CBP" value="1"/>
+                </dependencies>
+                <files>
+                    <folder source="10 Alt CBP Reset - Ulfberth" destination="" priority="2"/>
+                </files>
+            </pattern>
+            <pattern> <!--10 Alt CBP Reset - Fade-to-Black, 2-->
+                <dependencies>
+                    <flagDependency flag="CBP" value="2"/>
+                </dependencies>
+                <files>
+                    <folder source="10 Alt CBP Reset - Fade-to-Black" destination="" priority="2"/>
+                </files>
+            </pattern>
 			<pattern> <!--20 Alt Skeleton, 3-->
 				<dependencies>
 					<flagDependency flag="ZST" value="1"/>
