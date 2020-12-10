@@ -3,6 +3,7 @@
 	<moduleImage path="FOMOD\ScreenShot.JPG"/>
 	<moduleDependencies operator="Or">
 		<fileDependency file="Fallout4.esm" state="Active"/>
+		<fileDependency file="Fallout4.esm" state="Inactive"/>
 	</moduleDependencies>
 	<requiredInstallFiles>
 		<folder source="00 Base" destination="" priority="1"/>
