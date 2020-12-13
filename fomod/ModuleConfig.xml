@@ -11,6 +11,25 @@
 	<installSteps order="Explicit">
 		<installStep name="Alternative Files:">    <!--Alternative Files-->
 			<optionalFileGroups order="Explicit">
+				<group name="Alternative Idle:" type="SelectAtMostOne">
+					<plugins order="Explicit">
+						<plugin name="Manly Idle">
+							<description>
+Select this if you want the idle animations to fit bigger bodies. &#13;&#10;Recommended to be used with Idle Animation for Muscular Male by GraySheppard (Load it before Atomic Muscle).
+							</description>
+							<image path="FOMOD\Pics\Alternate_Idle.PNG"/>
+							<conditionFlags>
+								<flag name="AltIdle">1</flag>
+							</conditionFlags> 
+							<files> 
+								<folder source="25 Alternate Idle" destination="" priority="0" /> 
+							</files>
+							<typeDescriptor>
+								<type name="Recommended"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
 				<group name="Alt. CBP Presets:" type="SelectExactlyOne">
 					<plugins order="Explicit">						
 						<plugin name="None">
@@ -55,7 +74,7 @@ Fade-to-Black's CBP preset with less extreme bounce.
 					<plugins order="Explicit">						
 						<plugin name="None">
 							<description>
-If you dont want any changes to the standard ZeX Skeleton. &#13;&#10;Choose this if you use Fusion Girl.
+If you dont want any changes to the standard ZeX Skeleton.
 							</description>
 							<image path="FOMOD\ScreenShot.JPG"/>
 							<conditionFlags>
