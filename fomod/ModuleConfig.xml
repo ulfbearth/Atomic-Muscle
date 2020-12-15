@@ -53,7 +53,7 @@ Select this if you want a very jiggly body. &#13;&#10;Pretty much everything wil
 								<flag name="CBP">1</flag>
 							</conditionFlags>
 							<typeDescriptor>
-								<type name="Optional"/>
+								<type name="Recommended"/>
 							</typeDescriptor>
 						</plugin>
 						<plugin name="More Immersive Bounce">
@@ -105,7 +105,7 @@ Same as default + wider shoulders. &#13;&#10;&#13;&#10;This may cause problems w
 								<flag name="ZST">2</flag>
 							</conditionFlags>
 							<typeDescriptor>
-								<type name="Optional"/>
+								<type name="Recommended"/>
 							</typeDescriptor>
 						</plugin>
 						<plugin name="Wider Shoulders - Lower">
