@@ -84,7 +84,7 @@ If you dont want any changes to the standard ZeX Skeleton.
 								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
-						<plugin name="Default">
+						<plugin name="Skeleton Edit 1">
 							<description>
 Select this to have my personal edits to the ZEX Skeleton. &#13;&#10;It'll make the neck shorter and a bit thicker and will Scale the penis bones to get 11%+ bigger. &#13;&#10;&#13;&#10;This may cause problems with female body replacers that utilize ZeX specifically.
 							</description>
@@ -96,7 +96,7 @@ Select this to have my personal edits to the ZEX Skeleton. &#13;&#10;It'll make 
 								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
-						<plugin name="Wider Shoulders">
+						<plugin name="Skeleton Edit 2 - Wider Shoulders">
 							<description>
 Same as default + wider shoulders. &#13;&#10;&#13;&#10;This may cause problems with female body replacers that utilize ZeX specifically.
 							</description>
@@ -108,7 +108,7 @@ Same as default + wider shoulders. &#13;&#10;&#13;&#10;This may cause problems w
 								<type name="Recommended"/>
 							</typeDescriptor>
 						</plugin>
-						<plugin name="Wider Shoulders - Lower">
+						<plugin name="Skeleton Edit 3 - Wider Shoulders Lower">
 							<description>
 Same as Wider Shoulders but with lower shoulders. &#13;&#10;&#13;&#10;This may cause problems with female body replacers that utilize ZeX specifically.
 							</description>
