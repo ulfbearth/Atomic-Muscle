@@ -84,19 +84,7 @@ If you dont want any changes to the standard ZeX Skeleton.
 								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
-						<plugin name="Skeleton Edit 1">
-							<description>
-Select this to have my personal edits to the ZEX Skeleton. &#13;&#10;It'll make the neck shorter and a bit thicker and will Scale the penis bones to get 11%+ bigger. &#13;&#10;&#13;&#10;This may cause problems with female body replacers that utilize ZeX specifically.
-							</description>
-							<image path="FOMOD\Pics\20_1.JPG"/>
-							<conditionFlags>
-								<flag name="ZST">1</flag>
-							</conditionFlags>
-							<typeDescriptor>
-								<type name="Optional"/>
-							</typeDescriptor>
-						</plugin>
-						<plugin name="Skeleton Edit 2 - Wider Shoulders">
+						<plugin name="Skeleton Edit - Wider Shoulders">
 							<description>
 Same as default + wider shoulders. &#13;&#10;&#13;&#10;This may cause problems with female body replacers that utilize ZeX specifically.
 							</description>
@@ -106,18 +94,6 @@ Same as default + wider shoulders. &#13;&#10;&#13;&#10;This may cause problems w
 							</conditionFlags>
 							<typeDescriptor>
 								<type name="Recommended"/>
-							</typeDescriptor>
-						</plugin>
-						<plugin name="Skeleton Edit 3 - Wider Shoulders Lower">
-							<description>
-Same as Wider Shoulders but with lower shoulders. &#13;&#10;&#13;&#10;This may cause problems with female body replacers that utilize ZeX specifically.
-							</description>
-							<image path="FOMOD\Pics\20_3.JPG"/>
-							<conditionFlags>
-								<flag name="ZST">3</flag>
-							</conditionFlags>
-							<typeDescriptor>
-								<type name="Optional"/>
 							</typeDescriptor>
 						</plugin>
 					</plugins>
@@ -551,28 +527,12 @@ Installs a Meta.iNi file for Mod Organizer to allow versioning support. &#13;&#1
                     <folder source="10 Alt CBP Reset - Fade-to-Black" destination="" priority="2"/>
                 </files>
             </pattern>
-			<pattern> <!--20 Alt Skeleton, 3-->
-				<dependencies>
-					<flagDependency flag="ZST" value="1"/>
-				</dependencies>
-				<files>
-					<folder source="20 Alt Skeleton" destination="" priority="3"/>
-				</files>
-			</pattern>
 			<pattern> <!--20 Alt Skeleton - Wider, 3-->
 				<dependencies>
 					<flagDependency flag="ZST" value="2"/>
 				</dependencies>
 				<files>
 					<folder source="20 Alt Skeleton - Wider" destination="" priority="3"/>
-				</files>
-			</pattern>
-			<pattern> <!--20 Alt Skeleton - Wider Lower, 3-->
-				<dependencies>
-					<flagDependency flag="ZST" value="3"/>
-				</dependencies>
-				<files>
-					<folder source="20 Alt Skeleton - Wider Lower" destination="" priority="3"/>
 				</files>
 			</pattern>
 			<pattern> <!--30 Refits - Base Game, 4-->
