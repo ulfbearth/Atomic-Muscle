@@ -1,0 +1,66 @@
+[
+   {
+		"name": "1bNuclear BB",
+		"morph": "Nuclear BodyBuilder",
+		"minimum": 0.0,
+		"maximum": 1.0,
+		"interval": 0.05,
+		"gender": 0
+	},
+   {
+		"name": "1bNuka Bull",
+		"morph": "Nuka Bull",
+		"minimum": 0.0,
+		"maximum": 1.0,
+		"interval": 0.05,
+		"gender": 0
+	},
+	{
+		 "name": "2gForeskin",
+		 "morph": "Foreskin",
+		 "minimum": 0.0,
+		 "maximum": 1.0,
+		 "interval": 1.0,
+		 "gender": 0
+	 },
+   {
+		"name": "2gShaft Width",
+		"morph": "Shaft Width",
+		"minimum": 0.0,
+		"maximum": 1.0,
+		"interval": 0.05,
+		"gender": 0
+	},
+   {
+		"name": "2gSack Size",
+		"morph": "Sack Size",
+		"minimum": 0.0,
+		"maximum": 1.0,
+		"interval": 0.05,
+		"gender": 0
+	},
+	{
+		 "name": "2gPenis Length",
+		 "morph": "Penis Length",
+		 "minimum": 0.0,
+		 "maximum": 1.5,
+		 "interval": 0.05,
+		 "gender": 0
+	 },
+   {
+		"name": "2gAnus Spread",
+		"morph": "Anus Spread",
+		"minimum": 0.0,
+		"maximum": 1.0,
+		"interval": 0.05,
+		"gender": 0
+	},
+   {
+		"name": "3eBulge",
+		"morph": "Bulge",
+		"minimum": 0.0,
+		"maximum": 1.0,
+		"interval": 0.05,
+		"gender": 0
+	}
+]
