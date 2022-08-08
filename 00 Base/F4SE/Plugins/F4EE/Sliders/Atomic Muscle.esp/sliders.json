@@ -26,7 +26,7 @@
    {
 		"name": "2gShaft Width",
 		"morph": "Shaft Width",
-		"minimum": 0.0,
+		"minimum": -1.0,
 		"maximum": 1.0,
 		"interval": 0.05,
 		"gender": 0
@@ -42,7 +42,7 @@
 	{
 		 "name": "2gPenis Length",
 		 "morph": "Penis Length",
-		 "minimum": 0.0,
+		 "minimum": -1.0,
 		 "maximum": 1.5,
 		 "interval": 0.05,
 		 "gender": 0
